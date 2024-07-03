@@ -80,7 +80,6 @@ html, input, select, button {
 body {
   /* Center body in page */
   margin: 0 auto;
-  max-width: 1200px;
   padding: 2rem;
   border-radius: 6px;
   overflow-x: hidden;
@@ -92,6 +91,18 @@ body {
   color: var(--nc-tx-2);
   font-size: 1.03rem;
   line-height: 1.5;
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    max-width: 750px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  body {
+    max-width: 1000px;
+  }
 }
 
 ::selection {
