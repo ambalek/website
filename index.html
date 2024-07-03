@@ -4,23 +4,42 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ambalek.club</title>
-  <link rel="stylesheet" href="./screen.css">
-  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/screen.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
+  <header>
+    🏡 <a href="/">Home</a>
+  </header>
   <main>
-    <h1>Welcome to ambalek.club</h1>
-    <p>Here's some music:</p>
-    <figure>
-      <figcaption>2024-06-23_192350_000.mp3</figcaption>
-      <audio controls src="/media/music/2024-06-23_192350_000.mp3"></audio>
-      <p><a href="/media/music/2024-06-23_192350_000.mp3">🎧 Download</a></p>
-    </figure>
-    <figure>
-      <figcaption>2022-08-06.mp3</figcaption>
-      <audio controls src="/media/music/2022-08-06.mp3"></audio>
-      <p><a href="/media/music/2022-08-06.mp3">🎧 Download</a></p>
-    </figure>
+    <div class="h-feed hfeed">
+      <h1 class="p-name site-title">Welcome to ambalek.club</h1>
+      <p class="p-summary site-description visually-hidden">Music, music reviews, ambient stuff.</p>
+      <h2>Music</h2>
+      <figure>
+        <figcaption>2024-06-23_192350_000.mp3</figcaption>
+        <audio controls src="/media/music/2024-06-23_192350_000.mp3"></audio>
+        <p><a href="/media/music/2024-06-23_192350_000.mp3">🎧 Download</a></p>
+      </figure>
+      <figure>
+        <figcaption>2022-08-06.mp3</figcaption>
+        <audio controls src="/media/music/2022-08-06.mp3"></audio>
+        <p><a href="/media/music/2022-08-06.mp3">🎧 Download</a></p>
+      </figure>
+      <h2 id="articles">Articles</h2>
+      <article class="h-entry hentry">
+        <a class="u-url" rel="bookmark" href="/articles/redscale.html">
+          <h3 class="p-name entry-title">Review: Redscale by Braulio Lam</h3>
+        </a>
+        <address class="p-author author h-card vcard visually-hidden">
+          <a href="https://ambalek.club/" class="u-url url p-name fn" rel="author">ambalek</a>
+        </address>
+        <time class="dt-published published" datetime="2024-07-01 22:00:00">June 1, 2024</time>
+        <div class="p-summary entry-summary">
+          <p>Drones, inspired by photography.</p>
+        </div>
+      </article>
+    </div>
   </main>
   <footer>🍪 There's no cookie warning, because there are no cookies.</footer>
 </body>
