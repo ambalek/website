@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ambalek's Posts</title>
+  <subtitle>Music, music reviews, ambient stuff.</subtitle>
+  <link href="https://ambalek.club/atom.xml" rel="self" />
+  <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+  <updated>2024-07-05T20:46:00Z</updated>
+  <entry>
+    <title>Why make a website?</title>
+    <link href="https://ambalek.club/articles/why.html" />
+    <published>2024-07-03T22:00:00Z</published>
+    <summary>Why make a website, here and now, in the era of AI and social media and walled gardens?</summary>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="e-content">
+          <p>I like sketchbooks. I have a lot of them: Moleskine, the one that's similar to Moleskine but German and has a long name I can't spell, cheap A4 lined notebooks, musical score notebooks, and dotted graph paper ones, Field Notes with beautiful artwork, and ones you get free at conferences or for starting a tech job. I do use them a little but, but not really. What I actually do is make lots of Markdown files that I pretend I store safely with <a href="https://en.wikipedia.org/wiki/Git">git</a> but rarely push.</p>
+          <p>Why keep empty notebooks and write most things down in computer files? I suppose I don't read the notes again, I write them to remember them but rarely refer back to them. Maybe that's a mistake, but in the times I've had to search my notes they have undoubtedly been useful.</p>
+          <p>There's something related to notes which I have a little more enthusiasm for: sketches. I love sketches, the way the messy lines eventually turn into what was in my head, the way they feel easy but on reflection take a lot of time. I don't make many sketches anymore, but I do make musical sketches.</p>
+          <p>Musical sketches are weird because you can't look at them and understand them right away, you have to take some time to listen. If you're in the wrong headspace they might not work for you. I make them anyway, and in the last few years (maybe since 2019) I've posted musical sketches to <a href="https://www.instagram.com/_ambalek/">Instagram</a>. Instagram, for music, is interesting because the musical idea has more context: you can see us playing our instruments, whether they're traditional, electrified, or a bank of eurorack modules with furious knob twiddling.</p>
+          <p>It could be easy to laugh and say "look at these gear nerds showing off", but as an electronic music fan in the early 90s I'd have given pretty much anything to see how Autechre or Aphex Twin made their music. And yes, there are articles about it in The Wire and other places (like Aphex Twin's work with Korg), but seeing random people on social media doing crazy things with MIDI gear, synthesisers, guitar pedals, and everything else is wonderful.</p>
+          <p>There's an uncomfortable, corporate, advertising-driven, walled garden, doom scrolling in despair aspect to social media that has a <a href="https://en.wikipedia.org/wiki/Chilling_effect">chilling effect</a>. That brings me back to the "Why?" &#8212; creating a little, calm, quiet, messy, hand-written website in 2024 feels so wrong it must be right. There's no corporation or algorithms, just a music fan, text editor, and some HTML that probably has many mistakes and errors in it. No software platform to generate it, paid blogging platform, or analytics.</p>
+          <p>Making websites 20 years ago, I remember helping people create things like content management systems or shops, and arguing that we used software to generate pages to make everything repeatable, easy to restyle, upgrade, change, maintain. That's true: a hand-written website is kind of a nightmare. Pages will get old and look weird when new designs and layouts are added. And maybe that's good, a kind of digital patina we miss these days. It's like our paper notebooks when we actually did fill them, dog-eared and were hard to search, but we loved them because they were ours.</p>
+          <p>And that's why. And perhaps you'd like to make a site too. If you do, or already have a website related to ambient, noise music, weird electronics, or photography &#8212; find me on Instagram, Discord, or one of the other walled gardens, and we could swap URLs to create more digital spaces riddled with patina.</p>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>ambalek</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Review: Redscale by Braulio Lam</title>
+    <link href="https://ambalek.club/articles/redscale.html" />
+    <published>2024-07-01T22:00:00Z</published>
+    <summary>A photography-inspired ambient/drone album released on whitelabelrecs.</summary>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="e-content">
+          <p><a href="https://whitelabrecs.bandcamp.com/album/redscale">Redscale</a> by Braulio Lam is an ambient drone album that's inspired by photography. Slowly unfolding, hazy guitar sounds, occasionally more glitchy or clicking guitar tones (<em>2. Sensitive Emulsion</em>), and fragments of field recordings (<em>6. Canon A-1</em>).</p>
+          <p><em>Redscale</em>, overall, has a positive and gently uplifting sensibility, but there are darker moments (<em>7. Skylight Filter</em>).</p>
+          <p>Many of <em>Rescale's</em> tracks follow a pattern of sticking to a similar emotional range &#8212; there are no abrupt changes in chord or key. This gives the music a lilting, introspective dimension, but there are flecks of sounds and details that reward repeated listening.</p>
+          <p>I've listened to <em>Rescale</em> many times over the last week or so, it has accompanied me on walks, journeys through the city, and during work, and I've found it to be a beautiful companion.</p>
+        </div>
+      </div>
+    </content>
+    <author>
+      <name>ambalek</name>
+    </author>
+  </entry>
+</feed>
+
