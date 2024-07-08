@@ -6,10 +6,10 @@
   <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
   <updated>2024-07-05T20:46:00Z</updated>
     <entry>
-      <title>How to: Digital music / no subscription</title>
+      <title>How to: Digital music without streaming services</title>
       <link href="https://ambalek.club/articles/music-home.html" />
       <published>2024-07-08T22:00:00Z</published>
-      <summary>How to listen to music at home and on the go without a subscription.</summary>
+      <summary>How to listen to music at home and on the go without using streaming services.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
@@ -45,6 +45,7 @@
           <li><a href="https://cog.losno.co/">Cog</a>: Clean music player for macOS</li>
           <li><a href="https://www.foobar2000.org/">Foobar2000</a>: Windows (and iOS) music player &#8212; I like using this on iOS to play locally stored music, it makes its own folder on the device that you can copy files into using the built-in Apple Files app</li>
         </ul>
+        <p>These apps are free, but Plex and Unraid are not free. They both have one time purchase options. I tried out the free trials to see if they were for me. If you don't like them, there are open source and free alternatives to try, too.</p>
       </div>
         </div>
       </content>
