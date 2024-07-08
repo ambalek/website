@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ambalek.club ⟢ How to: Digital music / no subscription</title>
+  <link rel="stylesheet" href="/screen.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header>
+    🏡 <a href="/">Home</a> ∕∕∕ <a href="/#articles">Articles</a> → How to: Digital music / no subscription
+  </header>
+  <main>
+    <article class="h-entry">
+      <h1 class="p-name">How to: Digital music / no subscription</h1>
+      <p>
+        Published by <a class="p-author h-card" href="https://ambalek.club">ambalek</a>
+        on <time class="dt-published" datetime="2024-07-08T22:00:00Z">8<sup>th</sup> July 2024</time>
+      </p>
+      <p class="p-summary">How to listen to music at home and on the go without a subscription.</p>
+      <div class="e-content">
+        <p>I buy lots of music, on Bandcamp, <a href="https://jam.coop">jam.coop</a>, and also DRM-free places like iTunes and Amazon. I like buying music. I don't really like streaming, purely because it seems to have become less about music and more about money.</p>
+        <p>Despite the ease of purchasing digital music, playing it can be surprisingly difficult now. It can feel strange to deal with MP3s and other audio files these days when most devices are built assuming you want to stream music. Fortunately, you can still have your own stash of digital audio files and play it all through smart speakers.</p>
+        <p>In this article I'll explain how I do it, but there are lots of other ways to do it. I just wanted to write about it in case anyone feels like they're not really happy with Spotify and use Bandcamp most of the time anyway.</p>
+        <h2>Speakers</h2>
+        <p>Some smart speakers, those made by Sonos for example, support Bandcamp out of the box. It's possible to add Bandcamp as a service to Sonos, so if you do have a lot of music there you can already play it without paying for any extra services. Here's a screenshot of Bandcamp streaming to my speakers (circa 2024).</p>
+        <figure>
+          <img src="/media/images/bandcamp-jogging-house-ios.png" alt="Bandcamp running on iOS showing Jogging House" />
+          <figurecaption>Bandcamp on iOS.</figurecaption>
+        </figure>
+        <p>If you want more music from other services, you might need somewhere to store the files. This is what I've done for my setup.</p>
+        <h2>My setup</h2>
+        <p>I'm running the following setup:</p>
+        <ul>
+          <li><a href="https://unraid.net/">Unraid NAS</a>: An OS that runs on a cheap computer with several largish HDDs</li>
+          <li><a href="https://www.plex.tv/">Plex</a>: Runs on Unraid and serves my media files</li>
+          <li><a href="https://www.plex.tv/en-gb/plexamp/">Plexamp</a>: A music program that talks to a Plex server. Looks quite nice and runs on Windows, Linux, iOS, macOS, and Android</li>
+          <li><a href="https://www.sonos.com/">Sonos</a>: Speakers that sound nice and can talk to my NAS through Plex and SMB file sharing</li>
+        </ul>
+        <p>On my phone I use Plexamp or <a href="https://www.foobar2000.org/">Foobar2000</a> to listen to music. My speakers can talk to Plex or my NAS using file sharing. It's not too hard to set all of this up, and there are alternatives I've tried over the years.</p>
+        <figure>
+          <img src="/media/images/plexamp-macOS.png" alt="Plexamp on macOS" />
+          <figurecaption>Plexamp on macOS.</figurecaption>
+        </figure>
+        <p>One alternative to this setup that I liked for a while was Chromecast Audio: they were tiny devices that had a 3.5mm audio jack that plugged into an amp/powered speakers, so any speakers could become a playback device.</p>
+        <p>Another approach I tried for a while was running Plex on a Raspberry Pi, and treating the Pi like a NAS with a powered USB hub and SSDs attached using cheap SATA to USB adapters. This was actually fine, I just moved to a bigger Unraid NAS because I wanted to dump all of my RAW photography files somewhere as well.</p>
+        <p>It might seem like a lot of work to run a NAS, but all you really need is a computer. It could be a Mac or PC you keep running for most of the day, so it could easily store thousands of MP3s and offer them up to smart speakers. It feels pretty good to drop all of my favourite music purchases somewhere so I know they're always there and won't change.</p>
+        <h2>Music player apps</h2>
+        <p>If you just want something to play music files, then try some of these apps that I use regularly:</p>
+        <ul>
+          <li><a href="https://cog.losno.co/">Cog</a>: Clean music player for macOS</li>
+          <li><a href="https://www.foobar2000.org/">Foobar2000</a>: Windows (and iOS) music player &#8212; I like using this on iOS to play locally stored music, it makes its own folder on the device that you can copy files into using the built-in Apple Files app</li>
+        </ul>
+      </div>
+    </article>
+  </main>
+  <footer>Now go and find some music to buy!</footer>
+</body>
+</html>

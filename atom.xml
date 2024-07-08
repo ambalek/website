@@ -5,47 +5,94 @@
   <link href="https://ambalek.club/atom.xml" rel="self" />
   <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
   <updated>2024-07-05T20:46:00Z</updated>
-  <entry>
-    <title>Why make a website?</title>
-    <link href="https://ambalek.club/articles/why.html" />
-    <published>2024-07-03T22:00:00Z</published>
-    <summary>Why make a website, here and now, in the era of AI and social media and walled gardens?</summary>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="e-content">
-          <p>I like sketchbooks. I have a lot of them: Moleskine, the one that's similar to Moleskine but German and has a long name I can't spell, cheap A4 lined notebooks, musical score notebooks, and dotted graph paper ones, Field Notes with beautiful artwork, and ones you get free at conferences or for starting a tech job. I do use them a little but, but not really. What I actually do is make lots of Markdown files that I pretend I store safely with <a href="https://en.wikipedia.org/wiki/Git">git</a> but rarely push.</p>
-          <p>Why keep empty notebooks and write most things down in computer files? I suppose I don't read the notes again, I write them to remember them but rarely refer back to them. Maybe that's a mistake, but in the times I've had to search my notes they have undoubtedly been useful.</p>
-          <p>There's something related to notes which I have a little more enthusiasm for: sketches. I love sketches, the way the messy lines eventually turn into what was in my head, the way they feel easy but on reflection take a lot of time. I don't make many sketches anymore, but I do make musical sketches.</p>
-          <p>Musical sketches are weird because you can't look at them and understand them right away, you have to take some time to listen. If you're in the wrong headspace they might not work for you. I make them anyway, and in the last few years (maybe since 2019) I've posted musical sketches to <a href="https://www.instagram.com/_ambalek/">Instagram</a>. Instagram, for music, is interesting because the musical idea has more context: you can see us playing our instruments, whether they're traditional, electrified, or a bank of eurorack modules with furious knob twiddling.</p>
-          <p>It could be easy to laugh and say "look at these gear nerds showing off", but as an electronic music fan in the early 90s I'd have given pretty much anything to see how Autechre or Aphex Twin made their music. And yes, there are articles about it in The Wire and other places (like Aphex Twin's work with Korg), but seeing random people on social media doing crazy things with MIDI gear, synthesisers, guitar pedals, and everything else is wonderful.</p>
-          <p>There's an uncomfortable, corporate, advertising-driven, walled garden, doom scrolling in despair aspect to social media that has a <a href="https://en.wikipedia.org/wiki/Chilling_effect">chilling effect</a>. That brings me back to the "Why?" &#8212; creating a little, calm, quiet, messy, hand-written website in 2024 feels so wrong it must be right. There's no corporation or algorithms, just a music fan, text editor, and some HTML that probably has many mistakes and errors in it. No software platform to generate it, paid blogging platform, or analytics.</p>
-          <p>Making websites 20 years ago, I remember helping people create things like content management systems or shops, and arguing that we used software to generate pages to make everything repeatable, easy to restyle, upgrade, change, maintain. That's true: a hand-written website is kind of a nightmare. Pages will get old and look weird when new designs and layouts are added. And maybe that's good, a kind of digital patina we miss these days. It's like our paper notebooks when we actually did fill them, dog-eared and were hard to search, but we loved them because they were ours.</p>
-          <p>And that's why. And perhaps you'd like to make a site too. If you do, or already have a website related to ambient, noise music, weird electronics, or photography &#8212; find me on Instagram, Discord, or one of the other walled gardens, and we could swap URLs to create more digital spaces riddled with patina.</p>
-        </div>
+    <entry>
+      <title>How to: Digital music / no subscription</title>
+      <link href="https://ambalek.club/articles/music-home.html" />
+      <published>2024-07-08T22:00:00Z</published>
+      <summary>How to listen to music at home and on the go without a subscription.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+        <p>I buy lots of music, on Bandcamp, <a href="https://jam.coop">jam.coop</a>, and also DRM-free places like iTunes and Amazon. I like buying music. I don't really like streaming, purely because it seems to have become less about music and more about money.</p>
+        <p>Despite the ease of purchasing digital music, playing it can be surprisingly difficult now. It can feel strange to deal with MP3s and other audio files these days when most devices are built assuming you want to stream music. Fortunately, you can still have your own stash of digital audio files and play it all through smart speakers.</p>
+        <p>In this article I'll explain how I do it, but there are lots of other ways to do it. I just wanted to write about it in case anyone feels like they're not really happy with Spotify and use Bandcamp most of the time anyway.</p>
+        <h2>Speakers</h2>
+        <p>Some smart speakers, those made by Sonos for example, support Bandcamp out of the box. It's possible to add Bandcamp as a service to Sonos, so if you do have a lot of music there you can already play it without paying for any extra services. Here's a screenshot of Bandcamp streaming to my speakers (circa 2024).</p>
+        <figure>
+          <img src="/media/images/bandcamp-jogging-house-ios.png" alt="Bandcamp running on iOS showing Jogging House" />
+          <figurecaption>Bandcamp on iOS.</figurecaption>
+        </figure>
+        <p>If you want more music from other services, you might need somewhere to store the files. This is what I've done for my setup.</p>
+        <h2>My setup</h2>
+        <p>I'm running the following setup:</p>
+        <ul>
+          <li><a href="https://unraid.net/">Unraid NAS</a>: An OS that runs on a cheap computer with several largish HDDs</li>
+          <li><a href="https://www.plex.tv/">Plex</a>: Runs on Unraid and serves my media files</li>
+          <li><a href="https://www.plex.tv/en-gb/plexamp/">Plexamp</a>: A music program that talks to a Plex server. Looks quite nice and runs on Windows, Linux, iOS, macOS, and Android</li>
+          <li><a href="https://www.sonos.com/">Sonos</a>: Speakers that sound nice and can talk to my NAS through Plex and SMB file sharing</li>
+        </ul>
+        <p>On my phone I use Plexamp or <a href="https://www.foobar2000.org/">Foobar2000</a> to listen to music. My speakers can talk to Plex or my NAS using file sharing. It's not too hard to set all of this up, and there are alternatives I've tried over the years.</p>
+        <figure>
+          <img src="/media/images/plexamp-macOS.png" alt="Plexamp on macOS" />
+          <figurecaption>Plexamp on macOS.</figurecaption>
+        </figure>
+        <p>One alternative to this setup that I liked for a while was Chromecast Audio: they were tiny devices that had a 3.5mm audio jack that plugged into an amp/powered speakers, so any speakers could become a playback device.</p>
+        <p>Another approach I tried for a while was running Plex on a Raspberry Pi, and treating the Pi like a NAS with a powered USB hub and SSDs attached using cheap SATA to USB adapters. This was actually fine, I just moved to a bigger Unraid NAS because I wanted to dump all of my RAW photography files somewhere as well.</p>
+        <p>It might seem like a lot of work to run a NAS, but all you really need is a computer. It could be a Mac or PC you keep running for most of the day, so it could easily store thousands of MP3s and offer them up to smart speakers. It feels pretty good to drop all of my favourite music purchases somewhere so I know they're always there and won't change.</p>
+        <h2>Music player apps</h2>
+        <p>If you just want something to play music files, then try some of these apps that I use regularly:</p>
+        <ul>
+          <li><a href="https://cog.losno.co/">Cog</a>: Clean music player for macOS</li>
+          <li><a href="https://www.foobar2000.org/">Foobar2000</a>: Windows (and iOS) music player &#8212; I like using this on iOS to play locally stored music, it makes its own folder on the device that you can copy files into using the built-in Apple Files app</li>
+        </ul>
       </div>
-    </content>
-    <author>
-      <name>ambalek</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Review: Redscale by Braulio Lam</title>
-    <link href="https://ambalek.club/articles/redscale.html" />
-    <published>2024-07-01T22:00:00Z</published>
-    <summary>A photography-inspired ambient/drone album released on whitelabelrecs.</summary>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <div class="e-content">
-          <p><a href="https://whitelabrecs.bandcamp.com/album/redscale">Redscale</a> by Braulio Lam is an ambient drone album that's inspired by photography. Slowly unfolding, hazy guitar sounds, occasionally more glitchy or clicking guitar tones (<em>2. Sensitive Emulsion</em>), and fragments of field recordings (<em>6. Canon A-1</em>).</p>
-          <p><em>Redscale</em>, overall, has a positive and gently uplifting sensibility, but there are darker moments (<em>7. Skylight Filter</em>).</p>
-          <p>Many of <em>Rescale's</em> tracks follow a pattern of sticking to a similar emotional range &#8212; there are no abrupt changes in chord or key. This gives the music a lilting, introspective dimension, but there are flecks of sounds and details that reward repeated listening.</p>
-          <p>I've listened to <em>Rescale</em> many times over the last week or so, it has accompanied me on walks, journeys through the city, and during work, and I've found it to be a beautiful companion.</p>
         </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
+    <entry>
+      <title>Why make a website?</title>
+      <link href="https://ambalek.club/articles/why.html" />
+      <published>2024-07-03T22:00:00Z</published>
+      <summary>Why make a website, here and now, in the era of AI and social media and walled gardens?</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+        <p>I like sketchbooks. I have a lot of them: Moleskine, the one that's similar to Moleskine but German and has a long name I can't spell, cheap A4 lined notebooks, musical score notebooks, and dotted graph paper ones, Field Notes with beautiful artwork, and ones you get free at conferences or for starting a tech job. I do use them a little but, but not really. What I actually do is make lots of Markdown files that I pretend I store safely with <a href="https://en.wikipedia.org/wiki/Git">git</a> but rarely push.</p>
+        <p>Why keep empty notebooks and write most things down in computer files? I suppose I don't read the notes again, I write them to remember them but rarely refer back to them. Maybe that's a mistake, but in the times I've had to search my notes they have undoubtedly been useful.</p>
+        <p>There's something related to notes which I have a little more enthusiasm for: sketches. I love sketches, the way the messy lines eventually turn into what was in my head, the way they feel easy but on reflection take a lot of time. I don't make many sketches anymore, but I do make musical sketches.</p>
+        <p>Musical sketches are weird because you can't look at them and understand them right away, you have to take some time to listen. If you're in the wrong headspace they might not work for you. I make them anyway, and in the last few years (maybe since 2019) I've posted musical sketches to <a href="https://www.instagram.com/_ambalek/">Instagram</a>. Instagram, for music, is interesting because the musical idea has more context: you can see us playing our instruments, whether they're traditional, electrified, or a bank of eurorack modules with furious knob twiddling.</p>
+        <p>It could be easy to laugh and say "look at these gear nerds showing off", but as an electronic music fan in the early 90s I'd have given pretty much anything to see how Autechre or Aphex Twin made their music. And yes, there are articles about it in The Wire and other places (like Aphex Twin's work with Korg), but seeing random people on social media doing crazy things with MIDI gear, synthesisers, guitar pedals, and everything else is wonderful.</p>
+        <p>There's an uncomfortable, corporate, advertising-driven, walled garden, doom scrolling in despair aspect to social media that has a <a href="https://en.wikipedia.org/wiki/Chilling_effect">chilling effect</a>. That brings me back to the "Why?" &#8212; creating a little, calm, quiet, messy, hand-written website in 2024 feels so wrong it must be right. There's no corporation or algorithms, just a music fan, text editor, and some HTML that probably has many mistakes and errors in it. No software platform to generate it, paid blogging platform, or analytics.</p>
+        <p>Making websites 20 years ago, I remember helping people create things like content management systems or shops, and arguing that we used software to generate pages to make everything repeatable, easy to restyle, upgrade, change, maintain. That's true: a hand-written website is kind of a nightmare. Pages will get old and look weird when new designs and layouts are added. And maybe that's good, a kind of digital patina we miss these days. It's like our paper notebooks when we actually did fill them, dog-eared and were hard to search, but we loved them because they were ours.</p>
+        <p>And that's why. And perhaps you'd like to make a site too. If you do, or already have a website related to ambient, noise music, weird electronics, or photography &#8212; find me on Instagram, Discord, or one of the other walled gardens, and we could swap URLs to create more digital spaces riddled with patina.</p>
       </div>
-    </content>
-    <author>
-      <name>ambalek</name>
-    </author>
-  </entry>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
+    <entry>
+      <title>Review: Redscale by Braulio Lam</title>
+      <link href="https://ambalek.club/articles/redscale.html" />
+      <published>2024-07-01T22:00:00Z</published>
+      <summary>A photography-inspired ambient/drone album released on whitelabelrecs.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+        <p><a href="https://whitelabrecs.bandcamp.com/album/redscale">Redscale</a> by Braulio Lam is an ambient drone album that's inspired by photography. Slowly unfolding, hazy guitar sounds, occasionally more glitchy or clicking guitar tones (<em>2. Sensitive Emulsion</em>), and fragments of field recordings (<em>6. Canon A-1</em>).</p>
+        <p><em>Redscale</em>, overall, has a positive and gently uplifting sensibility, but there are darker moments (<em>7. Skylight Filter</em>).</p>
+        <p>Many of <em>Rescale's</em> tracks follow a pattern of sticking to a similar emotional range &#8212; there are no abrupt changes in chord or key. This gives the music a lilting, introspective dimension, but there are flecks of sounds and details that reward repeated listening.</p>
+        <p>I've listened to <em>Rescale</em> many times over the last week or so, it has accompanied me on walks, journeys through the city, and during work, and I've found it to be a beautiful companion.</p>
+      </div>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
 </feed>
 
