@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ambalek.club ⟢ arbhar Noise Tests</title>
+  <link rel="stylesheet" href="/screen.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header>
+    🏡 <a href="/">Home</a> ∕∕∕ arbhar Noise Tests
+  </header>
+  <main>
+    <h1 class="p-name">arbhar Noise Tests</h1>
+    <h2>Findings</h2>
+    <p>Having arbhar present in a eurorack case induces audible noise at the output when it is powered.</p>
+    <ul>
+      <li>Using the m05 Silencer didn't seem to improve the noise floor.</li>
+      <li>Physically moving arbhar outside of the case didn't improve the noise floor.</li>
+      <li>A simple subtractive patch included noise when arbhar is powered, even though arbhar wasn't involved in the patch.</li>
+      <li>The gain boosting I've used in these tests is loud enough to the point that I believe the noise is typically very low with a correctly gain-staged patch.</li>
+      <li>I didn't record this, but as arbhar boots you can hear it go from no noise, to noises that are different to its usual noise, until the Raspberry Pi finishes booting and the noise I've recorded here starts.</li>
+    </ul>
+    <p>Based on these findings I believe that it's extremely important to use correct gain-staging when using arbhar in a patch. If possible arbhar should be housed in a separate case, otherwise all of your patches will have some additional noise even when the module is not used.</p>
+    <h3>Test 1: Arbhar in a patch</h3>
+    <p>Inaudible patch, arbhar in the case</p>
+    <p><img src="/media/images/arbhar-noise-patch.jpeg" alt="A photo of the eurorack setup used for these tests."/></p>
+    <dl>
+      <dt>Patch</dt>
+      <dd>Oscillator to scope (1), scope to arbhar input, arbhar output to scope (2), scope (2) to output module.</dd>
+      <dt>Gain</dt>
+      <dd>Oscillator and arbhar matched, confirmed by waveforms on the scope.</dd>
+      <dt>Expected sound</dt>
+      <dd>Very little expected sound.</dd>
+      <dt>Observed sound</dt>
+      <dd>Noise when boosted.</dd>
+    </dl>
+    <figure>
+      <figcaption>1.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/1.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/1.mp3">🎧 Download</a></p>
+    </figure>
+    <h3>Test 2: Arbhar outside the case</h3>
+    <p>Inaudible patch, arbhar plugged into the same power flying bus power input but physically moved outside of the case.</p>
+    <dl>
+      <dt>Patch</dt>
+      <dd>Same as test 1.</dd>
+      <dt>Gain</dt>
+      <dd>Oscillator and arbhar matched, confirmed by waveforms on the scope.</dd>
+      <dt>Expected sound</dt>
+      <dd>Very little expected sound.</dd>
+      <dt>Observed sound</dt>
+      <dd>Noise when boosted.</dd>
+    </dl>
+    <figure>
+      <figcaption>2.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/2.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/2.mp3">🎧 Download</a></p>
+    </figure>
+    <h3>Test 3: m05</h3>
+    <p>Inaudible patch, arbhar plugged into the same power flying bus power input, physically moved outside of the case, using the <a href="https://trogotronic.com/product/m05/">m05 Silencer</a>.</p>
+    <p><img src="/media/images/arbhar-noise-m05.jpeg" alt="A photo of the m05."/></p>
+    <dl>
+      <dt>Patch</dt>
+      <dd>Same as test 1 and 2, but with the m05 Silencer.</dd>
+      <dt>Gain</dt>
+      <dd>Oscillator and arbhar matched, confirmed by waveforms on the scope.</dd>
+      <dt>Expected sound</dt>
+      <dd>Very little expected sound.</dd>
+      <dt>Observed sound</dt>
+      <dd>Noise when boosted.</dd>
+    </dl>
+    <figure>
+      <figcaption>3.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/3.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/3.mp3">🎧 Download</a></p>
+    </figure>
+    <h3>Test 4: Does arbhar interfere with other modules?</h3>
+    <p>A subtractive patch is used but the gain is set such that noise is audible when the output is boosted.</p>
+    <dl>
+      <dt>Patch</dt>
+      <dd>Oscillator through filter, low pass, gain set very low, arbhar present in the rack but not used for audio.</dd>
+      <dt>Gain</dt>
+      <dd>The input attenuation on the filter was set as low as I could.</dd>
+      <dt>Expected sound</dt>
+      <dd>The oscillator against a small amount of noise.</dd>
+      <dt>Observed sound</dt>
+      <dd>More noise than expected.</dd>
+    </dl>
+    <figure>
+      <figcaption>4.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/4.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/4.mp3">🎧 Download</a></p>
+    </figure>
+    <h3>Test 5</h3>
+    <p>The same as test 4, but with arbhar unplugged from the eurorack power board.</p>
+    <dl>
+      <dt>Patch</dt>
+      <dd>Same as 4 but with arbhar unplugged.</dd>
+      <dt>Expected sound</dt>
+      <dd>The oscillator against a small amount of noise.</dd>
+      <dt>Observed sound</dt>
+      <dd>The oscillator against a small amount of noise.</dd>
+    </dl>
+    <figure>
+      <figcaption>5.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/5.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/5.mp3">🎧 Download</a></p>
+    </figure>
+    <p>The previous test was repeated with the patch fully turned down so the oscillator is barely audible, and this gives the noise that the rack produces without any patch.</p>
+    <figure>
+      <figcaption>6.mp3</figcaption>
+      <audio controls src="/media/music/arbhar-noise-tests/6.mp3"></audio>
+      <p><a href="/media/music/arbhar-noise-tests/6.mp3">🎧 Download</a></p>
+    </figure>
+    <h2>Configuration</h2>
+    <dl>
+      <dt>Oscillator</dt>
+      <dd>Make Noise STO.</dd>
+      <dt>Filter</dt>
+      <dd>Mutable Instruments Ripples.</dd>
+      <dt>Scope</dt>
+      <dd>Mordax DATA.</dd>
+      <dt>Output</dt>
+      <dd>Instruo cuïr.</dd>
+      <dt>Recording</dt>
+      <dd>cuïr's headphone output turned all the way up, recorded in stereo by TX-6/macOS/Logic</dd>
+      <dt>Processing</dt>
+      <dd>Logic's gain module x2 (48db) so noise is audible.</dd>
+      <dt>Power</dt>
+      <dd>KOMA Strom+ Bundle.</dd>
+    </dl>
+  </main>
+</body>
+</html>
