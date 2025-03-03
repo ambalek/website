@@ -4,7 +4,26 @@
   <subtitle>Music, music reviews, ambient stuff.</subtitle>
   <link href="https://ambalek.club/atom.xml" rel="self" />
   <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
-  <updated>2025-02-23T23:00:00Z</updated>
+  <updated>2025-03-03T19:00:00Z</updated>
+    <entry>
+      <title>February 2025 Continuous Mix</title>
+      <link href="https://ambalek.club/articles/january-2025-mix.html" />
+      <published>2025-03-03T19:00:00Z</published>
+      <summary>MIDI guitar pedal experiments and Silhouette tests.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+            <p>This mix is a set of tracks I worked on in February, several involving experiments with MIDI control over guitar pedals.</p>
+          <p>
+            <p><a href="https://archive.org/download/20250303-february/20250303 - February.mp3">🎧 Download</a></p>
+          </p>
+          </div>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
     <entry>
       <title>Review: Frailty by Andrew Lang</title>
       <link href="https://ambalek.club/articles/frailty.html" />
