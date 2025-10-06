@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ambalek.club ⟢ Articles: Software Minimalism: Notes</title>
+    <link rel="stylesheet" href="/screen.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <header>
+      🏡 <a href="/">Home</a> ∕∕∕ <a href="/#articles">Articles</a> → Software Minimalism: Notes
+    </header>
+    <main>
+      <article class="h-entry">
+        <h1 class="p-name">Software Minimalism: Notes</h1>
+        <p>
+          Published by <a class="p-author h-card" href="https://ambalek.club">ambalek</a>
+          on <time class="dt-published" datetime="2025-10-06T14:00:00Z">6<sup>th</sup> October 2025</time>
+        </p>
+        <p class="p-summary">Simple ways to work with notes.</p>
+        <div class="e-content">
+          <p>Earlier this year I spent a long time reviewing software for writing notes. I had a pretty simple requirement: make it easy to write notes on any computer or device, in a portable way without needing a web browser.</p>
+          <p>I really wanted to be able to access my notes anywhere, on any computer, in a local-first manner.</p>
+          <p>There are a lot of note-taking apps out there: Anytype, Evernote, Notion, Joplin, Obsidian, Bear, Simplenote, and many more. They all have different strengths and weaknesses. It took a while for me to notice I only really wanted a text editor and text files, and to me as a technical person that solution was obvious, but it took some effort to get there.</p>
+          <h3>Text Files</h3>
+          <p>The simplicity of text files means I can use any tool that operates on text to manipulate it, and there are thousands of excellent tools for working with text. It's kind of the <a href="https://en.wikipedia.org/wiki/Unix_philosophy">Unix philosophy</a> -- <em>kind of</em> because it's a comment that comes later from Peter H. Salus:</p>
+          <blockquote>Write programs to handle text streams, because that is a universal interface.</blockquote>
+          <p>If you're an artist or musician and don't see yourself as technical, you might be ready to close the tab. I think you should join me around this virtual campfire to ponder a carefree, text-based world for a while.</p>
+          <p style="font-size: 2rem">🏕️</p>
+          <p>You can edit text files. Windows has Notepad.exe, macOS has TextEdit and includes text UIs like nano and vim. If you're comfortable with text files, version control, and things like that you know where I'm going, but if these things are new to you they're potentially skills worth learning.</p>
+          <p>The thing is, a bunch of text files is all well and good, but you can't easily sync your changes. That's what you're paying for when you subscribe to Evernote or Notion. Syncing is actually difficult to implement from a programmer's perspective. For example, if you edit the same file on two devices and change text in the same paragraph, how can the changes be combined in a way that makes sense?</p>
+          <p>Another piece of the puzzle is search. A paid service can afford to dedicate resources to efficiently indexing your notes and providing a fast search interface.</p>
+          <p>Here's where a combination of existing tools can be used to make something greater than the sum of its parts. Maybe. Let's see.</p>
+          <h3>The Technological Cocktail</h3>
+          <p>In the spirit of <em>software minimalism</em>, the cocktail of technologies I use to write notes breaks down like this:</p>
+          <ol>
+            <li>Text file format: <a href="https://www.markdownguide.org/">Markdown</a></li>
+            <li>"Sync": <a href="https://git-scm.com/">Git</a></li>
+            <li>Editing: My preferred text editor</li>
+            <li>Search: <a href="https://github.com/BurntSushi/ripgrep">ripgrep</a>, but text editors can search too</li>
+          </ol>
+          <p>With this setup, I can check out a private Git repository hosted somewhere like <a href="https://github.com/">GitHub</a>, <a href="https://about.gitlab.com/">GitLab</a>, or self-hosted. The notes are a folder of text files. I can edit the files with any plain old text editor. When I'm done, I commit the changes and push them. I don't need any special apps or user accounts, as long as I've got my git setup sorted out.</p>
+          <img width="800px" src="/media/images/nvim-notes.png" alt="Editor" />
+          <p>I can even have nested folders. Anything a file system can do is part of our new note-taking solution!</p>
+          <p>Obviously this looks pretty sparse next to something like Bear notes, but it's pretty easy to add Markdown previews to text editors. If you're using Windows and get something like <a href="https://notepad-plus-plus.org/">Notepad++</a> as an upgrade over the standard Notepad.exe, then you can get <a href="https://github.com/nea/MarkdownViewerPlusPlus">Markdown preview plugins</a> to make your notes look fancier.</p>
+          <h3>Secret Sauce</h3>
+          <p>With all this in place it looks suspiciously like something iPhones would hate, but it's not really. I've got the text editor Textastic set up to open my git repository of notes which gets synced (pushed/pulled) using a git UI for iOS called Working Copy. The magic of Working Copy is it supports AI-generated commit messages. By using an <a href="https://support.apple.com/en-gb/guide/shortcuts/welcome/ios">iOS Shortcut</a> you can make a single home screen icon that:</p>
+          <ol>
+            <li>Runs "Pull notes" in Working Copy</li>
+            <li>Opens the folder in Textastic</li>
+          </ol>
+          <p>Then you have a one-button solution for opening notes and starting to read or write from a smartphone.</p>
+          <p>Similarly, a Shortcut can be made that pulls from your private notes repository, commits changes using the AI-generated commit message, then pushes the updates to the repository.</p>
+          <img width="400px" src="/media/images/iphone-notes-shortcut.png" alt="iPhone notes shortcut" />
+          <h3>Writing Strategies</h3>
+          <p>In these note files you can write anything: ephemeral information that can be thrown away, or things you want to refer to later and sort or search. A semi-frequent bulleted list of daily life, a simple journal, weird computer stuff you need to remember so you can reproduce things like this notes setup in the future 😉.</p>
+          <p>I like using these notes for my musical ideas, a journal, and things I need to record about how my computers and devices are setup so I don't forget long-term.</p>
+        </div>
+      </article>
+    </main>
+    <footer>We are the music makers, and we are the dreamers of dreams.</footer>
+  </body>
+</html>
