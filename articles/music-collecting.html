@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ambalek.club ⟢ Articles → Music Collecting: Tags and Gain</title>
+        <link rel="stylesheet" href="/screen.css" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    </head>
+    <body>
+        <header>
+            🏡 <a href="/">Home</a> ∕∕∕ <a href="/#articles">Articles</a> →
+            Music Collecting
+        </header>
+        <main>
+            <article class="h-entry">
+                <h1 class="p-name">Music Collecting: Tags and Gain</h1>
+                <p>
+                    Published by
+                    <a class="p-author h-card" href="https://ambalek.club"
+                        >ambalek</a
+                    >
+                    on
+                    <time class="dt-published" datetime="2026-02-21T15:00:00Z"
+                        >21<sup>st</sup> February 2026</time
+                    >
+                </p>
+                <p class="p-summary">Organising your music files.</p>
+                <div class="e-content">
+                    <p>
+                        Last year I write about using
+                        <a href="https://ambalek.club/articles/music-home"
+                            >music without streaming services</a
+                        >, and I've discovered a few more small things since
+                        then to do with maintaining a music collection. My
+                        current setup is based around a NAS, and I like to copy
+                        music to SD cards to play on portable music players, or
+                        use Sonos to play through speakers.
+                    </p>
+                    <h3>Better Quality Tags</h3>
+                    <p>
+                        Sometimes, I have no idea why, but legit DRM-free music
+                        I've purchased through iTunes, Amazon, and Bandcamp, can
+                        have messy tags that confuses music players. The album
+                        might show up as duplicated in an "albums" view, or
+                        songs and artists aren't named consistently and
+                        correctly.
+                    </p>
+                    <h4>MusicBrainz Picard</h4>
+                    <p>
+                        One way to fix bad tags is using
+                        <a href="https://picard.musicbrainz.org/"
+                            >MusicBrainz Picard</a
+                        >. The way I like to use it is by dragging in an album
+                        at a time, seeing what matches it generates, then
+                        selecting the release I think is the correct one.
+                        Sometimes a few tracks aren't matched, so I'll drag
+                        those ones to the corresponding entry in the release
+                        I've chosen, and eventually I get the gold disc icon
+                        that means the release is 100% matched.
+                    </p>
+                    <img
+                        width="800px"
+                        src="/media/images/brainz.png"
+                        alt="Editor"
+                    />
+                    <p>
+                        Saving in Picard will update the files, but it also
+                        embeds custom <code>MusicBrainz*</code> tags. Some music
+                        players prefer these tags and it helps them better
+                        organise music.
+                    </p>
+                    <p>
+                        One thing I enjoy about this process is seeing what
+                        other releases of an album exist, and the different
+                        track listings. For rock/metal/etc that usually means
+                        live tracks, which can be interesting, but there are
+                        rarities included in some releases that are fun to
+                        discover. I've even got iTunes and Amazon albums with
+                        platform-specific bonus tracks, so it's not unique to
+                        physical releases. I think in the streaming era I forgot
+                        bands did bonus tracks, and it reminded me of how
+                        jealous I was of a friend who had the Japanese
+                        <em>The Bends</em> which I think had
+                        <em>How Can You Be Sure</em> and <em>Killer Cars</em>.
+                    </p>
+                    <h3>ReplayGain</h3>
+                    <p>
+                        Another level of polish you can add to your digital
+                        collection is ReplayGain, which is a way to help players
+                        <strong>gain match audio files</strong>. ReplayGain
+                        works by embedding yet more tags that include gain
+                        offsets for audio files. There's an offset for the track
+                        itself, and also one for the album. Using the album gain
+                        means songs have the correct gain within the context of
+                        their album &mdash; the example I read was a ballad
+                        still being quiet next to the other songs in the album,
+                        to preserve the author's intent.
+                    </p>
+                    <p>
+                        The tool I'm using to add RG tags is
+                        <a href="https://github.com/complexlogic/rsgain"
+                            >rsgain</a
+                        >. It's a command-line program, and the way I use it is
+                        just <code>rsgain easy /path/to/my/music</code>. It runs
+                        recursively, so it'll update the tags of the entire
+                        collection in one go. I haven't tried hardware/portable
+                        music players with ReplainGain enabled, but my desktop
+                        players support it.
+                    </p>
+                    <p>
+                        An additional detail to ReplayGain is peak: the dB
+                        offset for a track/album is generated, but it also
+                        tracks a value for the album/track peak. This means your
+                        player shouldn't play anything too loud and distort, so
+                        it feels like a pretty good approach as far as I
+                        understand these things.
+                    </p>
+                    <h3>Music Unknown to Metadata Services</h3>
+                    <p>
+                        Some of the albums that I've listened to for many years
+                        were not matched by MusicBrainz or any other services I
+                        tried. The funny thing is they were sold by
+                        iTunes/Amazon, so I think the coverage for digital
+                        releases isn't 100%.
+                    </p>
+                    <p>
+                        With one particularly stubborn release I had to manually
+                        edit the tags. The core problem was it's a compilation,
+                        and wasn't tagged that way, and I don't want all of the
+                        artist names individually listed in the artist list in
+                        my music players. I eventually got the album name edited
+                        so it was the same for every file, and set a
+                        <strong>compilation</strong> flag, and all was well.
+                    </p>
+                    <p>
+                        For editing tags, I found
+                        <a href="https://kid3.kde.org/">Kid3 - Audio Tagger</a>
+                        and
+                        <a href="https://gitlab.gnome.org/GNOME/easytag/"
+                            >easytag</a
+                        >
+                        to work. These sorts of programs usually treat music as
+                        folder-based, so you select a folder and they'll parse
+                        the id3 tags for each music file in that folder.
+                    </p>
+                    <p>
+                        Some of these programs are better than others. I found
+                        issues with certain tools not showing specific versions
+                        of id3tags, or fields I just couldn't surface that I
+                        knew were there (and confusing one of my players). The
+                        one I found the most friendly and to show the fields I
+                        needed to edit reliably was
+                        <a href="https://mp3tag.app/">Mp3tag</a>, which I think
+                        is only available for macOS.
+                    </p>
+                    <p>
+                        I also concocted a ridiculous Python script that added
+                        album art to all of my music, but I later found
+                        <a href="https://onetagger.github.io/">One Tagger</a>,
+                        which might be a safer way of doing that sort of thing.
+                    </p>
+                    <h3>Anyway…</h3>
+                    <p>
+                        Take a look at tidying your music file tags, and
+                        experiment with gain offsets embedded with ReplayGain.
+                        It can make your collection feel more coherent and
+                        pleasant to explore, and if you're using portable or
+                        hardware music players to amp up fancy headphones it's
+                        worth it.
+                    </p>
+                </div>
+            </article>
+        </main>
+        <footer>I'll get a real job, you'll go back to school.</footer>
+    </body>
+</html>

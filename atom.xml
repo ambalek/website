@@ -4,7 +4,24 @@
   <subtitle>Music, music reviews, ambient stuff.</subtitle>
   <link href="https://ambalek.club/atom.xml" rel="self" />
   <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
-  <updated>2025-10-06T12:00:00Z</updated>
+  <updated>2026-02-21T16:00:00Z</updated>
+    <entry>
+      <title>Music Collecting: Tags and Gain</title>
+      <link href="https://ambalek.club/articles/music-collecting.html" />
+      <published>2026-02-21T15:00:00Z</published>
+      <summary>Tips for organising your music files.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+            <p>In this article I discuss how to fix audio file tagging issues, and ReplayGain,
+            to help improve your digital music collection.</p>
+            </div>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
     <entry>
       <title>Software Minimalism: Notes</title>
       <link href="https://ambalek.club/articles/notes.html" />
@@ -193,4 +210,3 @@
       </author>
     </entry>
 </feed>
-
