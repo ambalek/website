@@ -1,15 +1,275 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ambalek's Posts</title>
   <subtitle>Music, music reviews, ambient stuff.</subtitle>
   <link href="https://ambalek.club/atom.xml" rel="self" />
   <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
-  <updated>2026-04-11T22:00:00Z</updated>
+  <updated>2024-07-05T20:46:00Z</updated>
+    <entry>
+      <title>Music Collecting: Analord</title>
+      <link href="https://ambalek.club/articles/music-collecting-physical.html" />
+      <published>2026-06-20T17:00:00Z</published>
+      <summary>Digging the crates.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+                    <img
+                        width="800px"
+                        src="/media/images/aphex-cash.png"
+                        alt="26 Mixes for Chosen Lords"
+                    />
+                    <p>
+                        Sitting here with access to seemingly infinite music
+                        through streaming services, Bandcamp, etc, I
+                        occasionally find things that are missing. For example,
+                        I couldn't seem to find
+                        <a
+                            href="https://en.wikipedia.org/wiki/26_Mixes_for_Cash"
+                            >26 Mixes for Cash</a
+                        >
+                        by Aphex Twin, a pair of CDs I had on rotation with a
+                        hi-fi CD player and most likely an iPod over 20 years
+                        ago.
+                    </p>
+                    <p>
+                        Looking over the CDs on my CD organiser, I couldn't find
+                        it anywhere. The CD organiser naturally contains current
+                        in-rotation albums, or proudly displayed rarities, but
+                        not everything. I went on the hunt for
+                        <em>26 Mixes</em>.
+                    </p>
+                    <p>
+                        The funny thing is, on this adventure behind bookcases,
+                        hidden nooks and crannies, up in the loft, buried
+                        beneath my synthesisers and patch cables, I discovered
+                        some real lost treasures. Sealed CDs and records, Boards
+                        of Canada rarities and interesting objects like the
+                        Dayvan Cowboy DVD. Memories started to surface about a
+                        totally different time in electronic music. I used to
+                        think of Aphex Twin, Autechre, and Boards of Canada as
+                        the sort of holy trinity of electronic music. They were
+                        the instant buys. And their associated labels released
+                        hidden gems waiting to be discovered.
+                    </p>
+                    <h3>Labels</h3>
+                    <p>
+                        I'd somehow forgotten about
+                        <a href="https://en.wikipedia.org/wiki/Rephlex_Records"
+                            >Rephlex</a
+                        >,
+                        <a href="https://en.wikipedia.org/wiki/Skam_Records"
+                            >Skam</a
+                        >, and
+                        <a
+                            href="https://en.wikipedia.org/wiki/Benbecula_Records"
+                            >Benbecula</a
+                        >, the holy trinity of labels (I'm saying this
+                        tongue-in-cheek, but I think I actually believe it). I
+                        used to read forums about these labels, listen to new
+                        releases to figure out what I wanted in the permanent
+                        collection. This was the late 90s through the 00s.
+                        Bigger labels like Warp were also favourites, but those
+                        three felt like the real scene that I was into.
+                    </p>
+                    <h3>Fear of missing out: but you did miss out</h3>
+                    <p>
+                        Around the time
+                        <a href="https://en.wikipedia.org/wiki/Analord"
+                            >Analord</a
+                        >
+                        was released, my turntable died. I assumed we were
+                        moving away from the physical media era into pure
+                        digital. Streaming wasn't quite happening, despite it
+                        being obvious it would happen, but digital purchases
+                        were easy enough through Apple and maybe not too long
+                        later on Bleep.com.
+                    </p>
+                    <p>
+                        I didn't buy the Analord records but did come to regret
+                        it somewhat. As an AFX release, it's got some of that
+                        acid 808/303 sound which I enjoy. It's generally
+                        minimalist: the instruments have space and sit in the
+                        mix perfectly. The sound design flips from classic acid
+                        to experimental sounds, probably some audio rate
+                        modulation (I mean how does Phonatacid work, the pad
+                        sound is like a sample: "dirty in a good way" says
+                        Reddit).
+                    </p>
+                    <h3>Sequencing</h3>
+                    <p>
+                        I always thought Analord, as a pre-Syro (Cirklon),
+                        post-Drukqs (partly
+                        <a href="https://sourceforge.net/projects/playerpro/"
+                            >PlayerPro</a
+                        >
+                        tracker), was a groovebox-driven work with the machines
+                        acting sort of like band members, and if that's true the
+                        constraints kind of lead you (well me, clearly not AFX)
+                        down certain paths; loop fixation, tracks that work by
+                        having small numbers of patterns that are looped and
+                        parts muted.
+                    </p>
+                    <p>
+                        Analord does feel like it might be relying on patterns
+                        on grooveboxes, but the sequencing uses tricks to make
+                        it feel somewhat organic at times. There are dramatic
+                        whole arrangement shifts, interesting stop/start moments
+                        (MC-4 Acid), pattern length changes, parts that sound
+                        like loops but are actually copies of patterns with
+                        variations. I assume it's a lot of subtle sequencing and
+                        many novel program changes. I find it interesting to
+                        work out which 303-like lines are not actually coming
+                        from a 303. Yeah I'm a nerd, but if these machines are
+                        band members then I'm merely paying them due respect.
+                    </p>
+                    <img
+                        width="800px"
+                        src="/media/images/analord1-2.png"
+                        alt="Analord Disc 1: B"
+                    />
+                    <h3>Analogue</h3>
+                    <p>
+                        There's a simpler side to Analord that probably
+                        resonated more at the time, and maybe again about five
+                        years ago. Analord feels like electronic music made with
+                        analogue synths. It's not just a few analogue
+                        instruments but as analogue end-to-end as it can be;
+                        released on vinyl. It's kind of boring to say it but
+                        hearing it on vinyl is the way it's meant to be heard.
+                        There is the CD,
+                        <a href="https://en.wikipedia.org/wiki/Chosen_Lords"
+                            >Chosen Lords</a
+                        >, and that's how I listened to it mainly, but I did
+                        have a friend on IRC who gave me some pretty nice mp3s
+                        of the records, so I had the full set (ironically never
+                        hearing the analogue release).
+                    </p>
+                    <p>
+                        I don't believe Analord itself is 100% analogue. There
+                        were
+                        <a
+                            href="https://web.archive.org/web/20100327182027/http://www.rephlex.com/releases/view/77/AFX/Analord%2001/ANALORD%2001"
+                            >pre-mastered 48kHz WAV</a
+                        >
+                        files released from whatever was recorded to
+                        DAT/Elcassette. What I mean about the analogue part of
+                        the concept is most of the sounds are analogue synths.
+                        There are times, like Fenix Funk 5, where there are
+                        voice-like sounds I'd assume were sampled, but it could
+                        easily be an analogue vocoder. To me it's not really
+                        important that the release is 100% analogue, it's that
+                        the core acid sound found new modes of expression using
+                        the same instruments from that era. Analogue in spirit,
+                        at least, not absolutist.
+                    </p>
+                    <p>
+                        Another note about the pre-mastered WAVs was they had
+                        more tracks than are on the records or Chosen Lords. For
+                        example,
+                        <em>Wheres Your Girlfriend (Another Version)</em>. Much
+                        like missing out on the vinyl release, I missed out on
+                        these WAVs too. They're not on Aphex Twin's Warp site,
+                        although there's one
+                        <a
+                            href="https://aphextwin.warp.net/release/85662-afx-analord-07"
+                            >Analord 07</a
+                        >
+                        live version so that's something.
+                    </p>
+                    <p>
+                        The reason I mention "five years ago" within the context
+                        of an analogue to analogue project is I think back in
+                        2005/6 electronic music was in the middle of the
+                        softsynth revolution. Computers could seemingly do
+                        anything synths could do. There was no point in
+                        synthesisers or samplers anymore (don't get mad, it felt
+                        like that to me for a while). We could just load up
+                        Logic and Reason, abandon all logic and reason and
+                        install hundreds of effects and synth plugins. In a way
+                        it's a renaissance of creativity: musicians unchained by
+                        the affordability of hardware. And the rediscovery of
+                        hardware synths did happen. I can't say precisely when,
+                        but personally I saw how popular synth videos got around
+                        2018 on YouTube and Instagram, with people like
+                        <a
+                            href="https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g"
+                            >Hainbach</a
+                        >
+                        showing how they made hardware-based electronic music,
+                        outside of computers.
+                    </p>
+                    <p>
+                        From this point, looking back, an analogue to analogue
+                        project now feels like something I can imagine Hainbach
+                        doing (I'm pretty sure he does have a video about that
+                        precise topic), but in the 00s it was almost lost on a
+                        lot of electronic music fans. I read people on WATMM and
+                        scene-friendly sites (like The Milk Factory) saying
+                        broadly that they were sold on the Analord concept, but
+                        when I read reviews on more mainstream music websites
+                        they were a little cool on it. Or conflicted at least.
+                        The mainstream music writers seemed to think James had
+                        earned the right to revisit that acid sound, but it
+                        didn't feel like a forward move.
+                    </p>
+                    <p>
+                        There's an interesting point there where to a lot of
+                        people electronic music wears the guise of
+                        forward-thinking music, and Analord perhaps doesn't
+                        quite fit that philosophy. Yet it's hard to say it's not
+                        experimental, and it's not exactly nostalgic. So what is
+                        it? I think it's just what it is, an interesting
+                        creative work with some great acid tracks.
+                    </p>
+                    <h3>The NPC has given you a quest</h3>
+                    <p>
+                        Actually getting hold of the Analord vinyl records in
+                        2026 takes some legwork. Or Internet fingerwork. They're
+                        worth reasonable sums for each disc. For all we know
+                        there could be a re-release, or a full digital
+                        collection, out on Bleep sometime soon (just reissue the
+                        Rephlex WAVs, please!). If you go back and listen
+                        though, you might notice there are tendrils of Analord's
+                        production techniques to be found in later releases like
+                        Syro, Ceetah, London 03.06.17 [field day], and the
+                        SoundCloud dump. So it wasn't nostalgia, it was what the
+                        man does™. Perhaps it was just an interesting challenge,
+                        focusing on developing a specific set of skills.
+                    </p>
+                    <img
+                        width="800px"
+                        src="/media/images/analord1.png"
+                        alt="Analord Disc 1: A"
+                    />
+                    <p>
+                        Now I've started a new hobby: once a month, trying to
+                        track down another Analord vinyl. I've found one so far,
+                        and let me tell you, I enjoyed finally hearing it off
+                        the disc instead of my old buddy's MP3s.
+                    </p>
+                    <p>
+                        Back to the subject of 26 Mixes for Cash: I don't think
+                        I'll ever forget or get over the David Bowie/Philip
+                        Glass Heroes remix. And again that's another oddity that
+                        was hard to get hold of, because as I remember you could
+                        only get the Heroes remix on a Japanese CD that came
+                        free with a Philip Glass CD. So go digging in your
+                        physical media collection if you have one, find those
+                        things you lost, make connections, explore sounds. It
+                        beats social media, I'll tell you that!
+                    </p>
+                </div>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
     <entry>
       <title>The Small Web</title>
       <link href="https://ambalek.club/articles/small.html" />
       <published>2026-04-11T22:00:00Z</published>
-      <summary>Distract yourself in a healthier way.</summary>
+      <summary>undefined</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
@@ -28,9 +288,9 @@
                     <p>
                         In the dove folder you might find
                         <a href="https://news.ycombinator.com/">Hacker News</a>,
-                        <a
-                            href="Astronomy Picture of the Day"
-                        >Astronomy Picture of the Day</a>, and some music blogs and websites like
+                        <a href="Astronomy Picture of the Day"
+                            >Astronomy Picture of the Day</a
+                        >, and some music blogs and websites like
                         <a href="https://www.factmag.com">Fact Magazine</a>. I'd
                         just dip into it when I was having a coffee, or when I
                         got that impulse that makes you check social media.
@@ -59,6 +319,11 @@
                         directory of blogs about all sorts of hobbies and
                         interests.
                     </p>
+                    <img
+                        width="800px"
+                        src="/media/images/ooh.png"
+                        alt="Ooh Directory"
+                    />
                     <p>
                         <a href="https://minifeed.net">minifeed</a> - curated
                         blog reader and search engine.
@@ -77,9 +342,9 @@
                         sites that meet a list of criteria -- the main one is
                         the content should be human-authored by one person, so
                         it really focuses on personal blogs. The
-                        <a
-                            href="https://github.com/kagisearch/smallweb"
-                        >Small Web GitHub repository</a>
+                        <a href="https://github.com/kagisearch/smallweb"
+                            >Small Web GitHub repository</a
+                        >
                         has more details.
                     </p>
                     <p>
@@ -88,17 +353,23 @@
                         <a href="https://iii.social/">iii</a>, or Indie Internet
                         Index, links to all sorts of fun things to play with,
                         like games, and things that take you right back to
-                        <a
-                            href="https://www.cameronsworld.net/"
-                        >the early web of the 90s</a>. For similar results I also like using
+                        <a href="https://www.cameronsworld.net/"
+                            >the early web of the 90s</a
+                        >. For similar results I also like using
                         <a href="https://wiby.me/">Wiby</a>.
                     </p>
+                    <img
+                        width="800px"
+                        src="/media/images/cameron.png"
+                        alt="Cameron's World"
+                    />
                     <p>
                         And when you're looking for that Reddit-like experience
                         but you don't want the full Reddit with all its
                         <a
                             href="https://en.wikipedia.org/wiki/Eternal_September"
-                        >Eternal September</a>
+                            >Eternal September</a
+                        >
                         qualities, you might like
                         <a href="https://tildes.net/">Tildes</a> and
                         <a href="https://lobste.rs/">Lobsters</a>.
@@ -127,7 +398,13 @@
                         less of the influence of sponsorships and advertising
                         that makes YouTube hard to enjoy these days.
                     </p>
-          </div>
+                    <p>
+                        If you're considering making a website, you probably
+                        should. Stay away from the social media popularity
+                        contest and do something weird, it seems more human
+                        somehow.
+                    </p>
+                </div>
         </div>
       </content>
       <author>
@@ -138,14 +415,153 @@
       <title>Music Collecting: Tags and Gain</title>
       <link href="https://ambalek.club/articles/music-collecting.html" />
       <published>2026-02-21T15:00:00Z</published>
-      <summary>Tips for organising your music files.</summary>
+      <summary>Organising your music files.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-            <p
-                    >In this article I discuss how to fix audio file tagging issues, and ReplayGain,
-            to help improve your digital music collection.</p>
-            </div>
+                    <p>
+                        Last year I write about using
+                        <a href="https://ambalek.club/articles/music-home"
+                            >music without streaming services</a
+                        >, and I've discovered a few more small things since
+                        then to do with maintaining a music collection. My
+                        current setup is based around a NAS, and I like to copy
+                        music to SD cards to play on portable music players, or
+                        use Sonos to play through speakers.
+                    </p>
+                    <h3>Better Quality Tags</h3>
+                    <p>
+                        Sometimes, I have no idea why, but legit DRM-free music
+                        I've purchased through iTunes, Amazon, and Bandcamp, can
+                        have messy tags that confuses music players. The album
+                        might show up as duplicated in an "albums" view, or
+                        songs and artists aren't named consistently and
+                        correctly.
+                    </p>
+                    <h4>MusicBrainz Picard</h4>
+                    <p>
+                        One way to fix bad tags is using
+                        <a href="https://picard.musicbrainz.org/"
+                            >MusicBrainz Picard</a
+                        >. The way I like to use it is by dragging in an album
+                        at a time, seeing what matches it generates, then
+                        selecting the release I think is the correct one.
+                        Sometimes a few tracks aren't matched, so I'll drag
+                        those ones to the corresponding entry in the release
+                        I've chosen, and eventually I get the gold disc icon
+                        that means the release is 100% matched.
+                    </p>
+                    <img
+                        width="800px"
+                        src="/media/images/brainz.png"
+                        alt="Editor"
+                    />
+                    <p>
+                        Saving in Picard will update the files, but it also
+                        embeds custom <code>MusicBrainz*</code> tags. Some music
+                        players prefer these tags and it helps them better
+                        organise music.
+                    </p>
+                    <p>
+                        One thing I enjoy about this process is seeing what
+                        other releases of an album exist, and the different
+                        track listings. For rock/metal/etc that usually means
+                        live tracks, which can be interesting, but there are
+                        rarities included in some releases that are fun to
+                        discover. I've even got iTunes and Amazon albums with
+                        platform-specific bonus tracks, so it's not unique to
+                        physical releases. I think in the streaming era I forgot
+                        bands did bonus tracks, and it reminded me of how
+                        jealous I was of a friend who had the Japanese
+                        <em>The Bends</em> which I think had
+                        <em>How Can You Be Sure</em> and <em>Killer Cars</em>.
+                    </p>
+                    <h3>ReplayGain</h3>
+                    <p>
+                        Another level of polish you can add to your digital
+                        collection is ReplayGain, which is a way to help players
+                        <strong>gain match audio files</strong>. ReplayGain
+                        works by embedding yet more tags that include gain
+                        offsets for audio files. There's an offset for the track
+                        itself, and also one for the album. Using the album gain
+                        means songs have the correct gain within the context of
+                        their album &mdash; the example I read was a ballad
+                        still being quiet next to the other songs in the album,
+                        to preserve the author's intent.
+                    </p>
+                    <p>
+                        The tool I'm using to add RG tags is
+                        <a href="https://github.com/complexlogic/rsgain"
+                            >rsgain</a
+                        >. It's a command-line program, and the way I use it is
+                        just <code>rsgain easy /path/to/my/music</code>. It runs
+                        recursively, so it'll update the tags of the entire
+                        collection in one go. I haven't tried hardware/portable
+                        music players with ReplainGain enabled, but my desktop
+                        players support it.
+                    </p>
+                    <p>
+                        An additional detail to ReplayGain is peak: the dB
+                        offset for a track/album is generated, but it also
+                        tracks a value for the album/track peak. This means your
+                        player shouldn't play anything too loud and distort, so
+                        it feels like a pretty good approach as far as I
+                        understand these things.
+                    </p>
+                    <h3>Music Unknown to Metadata Services</h3>
+                    <p>
+                        Some of the albums that I've listened to for many years
+                        were not matched by MusicBrainz or any other services I
+                        tried. The funny thing is they were sold by
+                        iTunes/Amazon, so I think the coverage for digital
+                        releases isn't 100%.
+                    </p>
+                    <p>
+                        With one particularly stubborn release I had to manually
+                        edit the tags. The core problem was it's a compilation,
+                        and wasn't tagged that way, and I don't want all of the
+                        artist names individually listed in the artist list in
+                        my music players. I eventually got the album name edited
+                        so it was the same for every file, and set a
+                        <strong>compilation</strong> flag, and all was well.
+                    </p>
+                    <p>
+                        For editing tags, I found
+                        <a href="https://kid3.kde.org/">Kid3 - Audio Tagger</a>
+                        and
+                        <a href="https://gitlab.gnome.org/GNOME/easytag/"
+                            >easytag</a
+                        >
+                        to work. These sorts of programs usually treat music as
+                        folder-based, so you select a folder and they'll parse
+                        the id3 tags for each music file in that folder.
+                    </p>
+                    <p>
+                        Some of these programs are better than others. I found
+                        issues with certain tools not showing specific versions
+                        of id3tags, or fields I just couldn't surface that I
+                        knew were there (and confusing one of my players). The
+                        one I found the most friendly and to show the fields I
+                        needed to edit reliably was
+                        <a href="https://mp3tag.app/">Mp3tag</a>, which I think
+                        is only available for macOS.
+                    </p>
+                    <p>
+                        I also concocted a ridiculous Python script that added
+                        album art to all of my music, but I later found
+                        <a href="https://onetagger.github.io/">One Tagger</a>,
+                        which might be a safer way of doing that sort of thing.
+                    </p>
+                    <h3>Anyway…</h3>
+                    <p>
+                        Take a look at tidying your music file tags, and
+                        experiment with gain offsets embedded with ReplayGain.
+                        It can make your collection feel more coherent and
+                        pleasant to explore, and if you're using portable or
+                        hardware music players to amp up fancy headphones it's
+                        worth it.
+                    </p>
+                </div>
         </div>
       </content>
       <author>
@@ -155,18 +571,70 @@
     <entry>
       <title>Software Minimalism: Notes</title>
       <link href="https://ambalek.club/articles/notes.html" />
-      <published>2025-10-06T12:00:00Z</published>
+      <published>2025-10-06T14:00:00Z</published>
       <summary>Simple ways to work with notes.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-            <p
-                    >Earlier this year I spent a long time reviewing software for writing notes. I had a pretty simple requirement: make it easy to write notes on any computer or device, in a portable way without needing a web browser.</p>
-            <p
-                    >I really wanted to be able to access my notes anywhere, on any computer, in a local-first manner.</p>
-            <p
-                    >There are a lot of note-taking apps out there: Anytype, Evernote, Notion, Joplin, Obsidian, Bear, Simplenote, and many more. They all have different strengths and weaknesses. It took a while for me to notice I only really wanted a text editor and text files, and to me as a technical person that solution was obvious, but it took some effort to get there.</p>
-          </div>
+          <p>Earlier this year I spent a long time reviewing software for writing notes. I had a pretty simple requirement: make it easy to write notes on any computer or device, in a portable way without needing a web browser.</p>
+          <p>I really wanted to be able to access my notes anywhere, on any computer, in a local-first manner.</p>
+          <p>There are a lot of note-taking apps out there: Anytype, Evernote, Notion, Joplin, Obsidian, Bear, Simplenote, and many more. They all have different strengths and weaknesses. It took a while for me to notice I only really wanted a text editor and text files, and to me as a technical person that solution was obvious, but it took some effort to get there.</p>
+          <h3>Text Files</h3>
+          <p>The simplicity of text files means I can use any tool that operates on text to manipulate it, and there are thousands of excellent tools for working with text. It's kind of the <a href="https://en.wikipedia.org/wiki/Unix_philosophy">Unix philosophy</a> -- <em>kind of</em> because it's a comment that comes later from Peter H. Salus:</p>
+          <blockquote>Write programs to handle text streams, because that is a universal interface.</blockquote>
+          <p>If you're an artist or musician and don't see yourself as technical, you might be ready to close the tab. I think you should join me around this virtual campfire to ponder a carefree, text-based world for a while.</p>
+          <p style="font-size: 2rem">🏕️</p>
+          <p>You can edit text files. Windows has Notepad.exe, macOS has TextEdit and includes text UIs like nano and vim. If you're comfortable with text files, version control, and things like that you know where I'm going, but if these things are new to you they're potentially skills worth learning.</p>
+          <p>The thing is, a bunch of text files is all well and good, but you can't easily sync your changes. That's what you're paying for when you subscribe to Evernote or Notion. Syncing is actually difficult to implement from a programmer's perspective. For example, if you edit the same file on two devices and change text in the same paragraph, how can the changes be combined in a way that makes sense?</p>
+          <p>Another piece of the puzzle is search. A paid service can afford to dedicate resources to efficiently indexing your notes and providing a fast search interface.</p>
+          <p>Here's where a combination of existing tools can be used to make something greater than the sum of its parts. Maybe. Let's see.</p>
+          <h3>The Technological Cocktail</h3>
+          <p>In the spirit of <em>software minimalism</em>, the cocktail of technologies I use to write notes breaks down like this:</p>
+          <ol>
+            <li>Text file format: <a href="https://www.markdownguide.org/">Markdown</a></li>
+            <li>"Sync": <a href="https://git-scm.com/">Git</a></li>
+            <li>Editing: My preferred text editor</li>
+            <li>Search: <a href="https://github.com/BurntSushi/ripgrep">ripgrep</a>, but text editors can search too</li>
+          </ol>
+          <p>With this setup, I can check out a private Git repository hosted somewhere like <a href="https://github.com/">GitHub</a>, <a href="https://about.gitlab.com/">GitLab</a>, or self-hosted. The notes are a folder of text files. I can edit the files with any plain old text editor. When I'm done, I commit the changes and push them. I don't need any special apps or user accounts, as long as I've got my git setup sorted out.</p>
+          <img width="800px" src="/media/images/nvim-notes.png" alt="Editor" />
+          <p>I can even have nested folders. Anything a file system can do is part of our new note-taking solution!</p>
+          <p>Obviously this looks pretty sparse next to something like Bear notes, but it's pretty easy to add Markdown previews to text editors. If you're using Windows and get something like <a href="https://notepad-plus-plus.org/">Notepad++</a> as an upgrade over the standard Notepad.exe, then you can get <a href="https://github.com/nea/MarkdownViewerPlusPlus">Markdown preview plugins</a> to make your notes look fancier.</p>
+          <h3>Secret Sauce</h3>
+          <p>With all this in place it looks suspiciously like something iPhones would hate, but it's not really. I've got the text editor Textastic set up to open my git repository of notes which gets synced (pushed/pulled) using a git UI for iOS called Working Copy. The magic of Working Copy is it supports AI-generated commit messages. By using an <a href="https://support.apple.com/en-gb/guide/shortcuts/welcome/ios">iOS Shortcut</a> you can make a single home screen icon that:</p>
+          <ol>
+            <li>Runs "Pull notes" in Working Copy</li>
+            <li>Opens the folder in Textastic</li>
+          </ol>
+          <p>Then you have a one-button solution for opening notes and starting to read or write from a smartphone.</p>
+          <p>Similarly, a Shortcut can be made that pulls from your private notes repository, commits changes using the AI-generated commit message, then pushes the updates to the repository.</p>
+          <img width="400px" src="/media/images/iphone-notes-shortcut.png" alt="iPhone notes shortcut" />
+          <h3>Writing Strategies</h3>
+          <p>In these note files you can write anything: ephemeral information that can be thrown away, or things you want to refer to later and sort or search. A semi-frequent bulleted list of daily life, a simple journal, weird computer stuff you need to remember so you can reproduce things like this notes setup in the future 😉.</p>
+          <p>I like using these notes for my musical ideas, a journal, and things I need to record about how my computers and devices are setup so I don't forget long-term.</p>
+        </div>
+        </div>
+      </content>
+      <author>
+        <name>ambalek</name>
+      </author>
+    </entry>
+    <entry>
+      <title>February 2025 Continuous Mix</title>
+      <link href="https://ambalek.club/articles/february-2025-mix.html" />
+      <published>2025-03-03T19:00:00Z</published>
+      <summary>February studio experiments, continuous mix.</summary>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div class="e-content">
+        <p>This mix is a set of tracks I worked on in February, several involving experiments with MIDI control over guitar pedals.</p>
+        <figure>
+          <figcaption>20250303 - February.mp3</figcaption>
+          <audio controls src="https://archive.org/download/20250303-february/20250303 - February.mp3"></audio>
+          <p><a href="https://archive.org/download/20250303-february/20250303 - February.mp3">🎧 Download</a></p>
+        </figure>
+        <p>The first track in the mix was made by putting several eurorack sounds through <a href="https://www.whimsicalraps.com/products/silhouette">Silhouette</a>. Silhouette accepts multiple inputs, so you can move between them and add tails by blurring the signal. The source sounds were from the OP-1 Field's string instrument, looped and mangled by <a href="https://www.makenoisemusic.com/modules/morphagene/">Morphagene</a>. I did some manual control over Morphagene so I could make it feel like the strings were being plucked and mangled. I used Silhouette to blend the string sounds with a Just Friends voice, and another drone made by Mangrove and Three Sisters.</p>
+      </div>
         </div>
       </content>
       <author>
@@ -177,35 +645,18 @@
       <title>Review: Frailty by Andrew Lang</title>
       <link href="https://ambalek.club/articles/frailty.html" />
       <published>2025-02-23T22:00:00Z</published>
-      <summary>Guitars, pedals, and field recordings.</summary>
+      <summary>Guitars, pedals, field recording ambient/drone on <a href="https://perceptualtapes.bandcamp.com/">Perceptual Tapes</a>.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-            <p>According to the notes on Bandcamp, <a
-                            href="https://perceptualtapes.bandcamp.com/album/frailty"
-                        >Frailty</a> by <a
-                            href="https://www.andrewlang.net/"
-                        >Andrew Lang</a> is a departure from his previous piano-centric ambient music. <em
-                        >Frailty</em> follows an ebb and flow where the music reflects field recordings (<em
-                        >The Colour of Memory</em>, <em>Fealty</em>, <em
-                        >Othering</em>, <em
-                        >Rub Your Eyes on Light</em>), and despite the credited saxophone on <em
-                        >Years &amp; Years</em>, it's hard to pick out specific instruments that have been used &#8212; a quality I find myself enjoying about the sounds on this album.</p>
-            <p
-                    >With guitar-based ambient music there's sometimes a sense that the effects become an instrument of equal expressiveness and depth to the guitar itself, and I definitely get that impression here. The processed field recordings and occasional whispers feel natural partly due to the filtering and saturation, making the sounds sit in the mix naturally instead of sitting on top of the music.</p>
-            <p><em
-                        >Frailty</em> starts perhaps more restrained and darker than your memory of it will be. In fact, the way I remember this album feeling overall is hopeful and positive. However, if you go back to track 2, <em
-                        >Regime Shift</em>, you'll notice that it is dramatic and melancholic.</p>
-            <p>The subsequent track, <em
-                        >Fealty</em>, feels more neutral, with processed field recordings, and mournful lilting synths at the end. These synths fluidly lead into <em
-                        >Frailty</em>, the similarity between the two track titles and the music being so key here, but this is where the album hits its stride and becomes what defines the lasting impression it has on the listener.</p>
-            <p
-                    >The album clocks in at around 39 minutes, so it's on the shorter side, and it leaves me with a sense of wanting more. This means I tend to play it on repeat, which is how I know the general impression of the album is the positive and hopeful vibes from the latter half.</p>
-            <p
-                    >If you want to purchase Perceptual Tapes physical releases, I noticed you can find them on local record shops, like <a
-                            href="https://www.normanrecords.com/label/13397-perceptual-tapes"
-                        >Norman Records</a> for me in the UK. And the physical releases are definitely tempting with that incredible cover art.</p>
-          </div>
+        <p>According to the notes on Bandcamp, <a href="https://perceptualtapes.bandcamp.com/album/frailty">Frailty</a> by <a href="https://www.andrewlang.net/">Andrew Lang</a> is a departure from his previous piano-centric ambient music. <em>Frailty</em> follows an ebb and flow where the music reflects field recordings (<em>The Colour of Memory</em>, <em>Fealty</em>, <em>Othering</em>, <em>Rub Your Eyes on Light</em>), and despite the credited saxophone on <em>Years &amp; Years</em>, it's hard to pick out specific instruments that have been used &mdash; a quality I find myself enjoying about the sounds on this album.</p>
+        <p>With guitar-based ambient music there's sometimes a sense that the effects become an instrument of equal expressiveness and depth to the guitar itself, and I definitely get that impression here. The processed field recordings and occasional whispers feel natural partly due to the filtering and saturation, making the sounds sit in the mix naturally instead of sitting on top of the music.</p>
+        <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3197760113/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://perceptualtapes.bandcamp.com/album/frailty">Frailty by Andrew Lang</a></iframe>
+        <p><em>Frailty</em> starts perhaps more restrained and darker than your memory of it will be. In fact, the way I remember this album feeling overall is hopeful and positive. However, if you go back to track 2, <em>Regime Shift</em>, you'll notice that it is dramatic and melancholic.</p>
+        <p>The subsequent track, <em>Fealty</em>, feels more neutral, with processed field recordings, and mournful lilting synths at the end. These synths fluidly lead into <em>Frailty</em>, the similarity between the two track titles and the music being so key here, but this is where the album hits its stride and becomes what defines the lasting impression it has on the listener.</p>
+        <p>The album clocks in at around 39 minutes, so it's on the shorter side, and it leaves me with a sense of wanting more. This means I tend to play it on repeat, which is how I know the general impression of the album is the positive and hopeful vibes from the latter half.</p>
+        <p>If you want to purchase Perceptual Tapes physical releases, I noticed you can find them on local record shops, like <a href="https://www.normanrecords.com/label/13397-perceptual-tapes">Norman Records</a> for me in the UK. And the physical releases are definitely tempting with that incredible cover art.</p>
+      </div>
         </div>
       </content>
       <author>
@@ -220,14 +671,16 @@
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-            <p
-                    >I collected together the various studio sessions I've had in January and created a continuous mix that you can download.</p>
-          <p>
-            <p><a
-                                href="https://archive.org/download/january-2025/january-2025.mp3"
-                            >🎧 Download</a></p>
-          </p>
-          </div>
+        <p>I collected together the various studio sessions I've had in January and created a continuous mix that you can download.</p>
+        <p>This month involved learning more about <a href="https://www.whimsicalraps.com/">Mannequins</a> modules, mixing OP-1 sampling with eurorack, and relying more on looping than sequencing.</p>
+        <figure>
+          <figcaption>january-2025.mp3</figcaption>
+          <audio controls src="https://archive.org/download/january-2025/january-2025.mp3"></audio>
+          <p><a href="https://archive.org/download/january-2025/january-2025.mp3">🎧 Download</a></p>
+        </figure>
+        <p>That's not to say looping is better than sequencing, it's just I want to dedicate some time to creating purely sample-based work for the next album I work on.</p>
+        <p>Over the last few days I've been attempting to make more complex networks of guitar pedals controlled by MIDI CC values, so I was hoping that might lead somewhere quite different to this month's music making.</p>
+      </div>
         </div>
       </content>
       <author>
@@ -238,69 +691,34 @@
       <title>Album Release: Diary</title>
       <link href="https://ambalek.club/articles/album-release-diary.html" />
       <published>2024-07-12T22:25:00Z</published>
-      <summary
-        >Originally released on Sonic Dialogue, now available for streaming.</summary>
+      <summary>Originally released on Sonic Dialogue, now available for streaming.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-        <p
-                    >I've added my album, Sonic Dialogue: Diary #3, to streaming platforms. Here are the links: <a
-                            rel="stream"
-                            href="https://open.spotify.com/album/6lg58PEwsrpJcoghFqBldj"
-                        >Spotify</a>, <a
-                            rel="stream"
-                            href="https://music.apple.com/us/album/diary/1756539373"
-                        >Apple Music</a>.</p>
-        <p
-                    >The album was produced over one month, and I worked on it every day. I tried to incorporate ideas from things I experienced that month, in an abstract way of course because it's ambient music. This included painters I read about, books I read or remembered, and time with my family.</p>
-        <p
-                    >I kept notes about the instruments used and musical techniques, including eurorack modules, synthesizers, samplers, and acoustic instruments. There's also one of each of my favourite kinds of tracks on the album &#8212; a few drone tracks, a <em
-                        >Plumbutter drums weird track</em>, drama, softness, and all sorts of textures.</p>
+        <p>I've added my album, Sonic Dialogue: Diary #3, to streaming platforms. Here are the links: <a rel="stream" href="https://open.spotify.com/album/6lg58PEwsrpJcoghFqBldj">Spotify</a>, <a rel="stream" href="https://music.apple.com/us/album/diary/1756539373">Apple Music</a>.</p>
+        <p>The album was produced over one month, and I worked on it every day. I tried to incorporate ideas from things I experienced that month, in an abstract way of course because it's ambient music. This included painters I read about, books I read or remembered, and time with my family.</p>
+        <p>I kept notes about the instruments used and musical techniques, including eurorack modules, synthesizers, samplers, and acoustic instruments. There's also one of each of my favourite kinds of tracks on the album &#8212; a few drone tracks, a <em>Plumbutter drums weird track</em>, drama, softness, and all sorts of textures.</p>
         <p>Here's the last diary entry:</p>
         <blockquote>
           <h4>Friday September 1st</h4>
-          <p
-                        >I've probably got enough material now for an album, but I wanted to record one more track based on my wife's voice, her recorder (the woodwind), and a few found sounds.</p>
-          <p
-                        >It worked like this: two sustained vocal samples were used to make drones using OP-1, Vongon Ultrasheer, and some filtering. In parallel more vocal drones using a second sample were played using Morphagene in a little 4ms Pod with a 4ms I/O module, and this went through some pedals to get saturation and filtering. Meanwhile, I hand played the woodwind sounds (another simple sustained looped sample).</p>
-          <p
-                        >I also used the OP-1's mic to overdub sounds of me typing on a mechanical computer keyboard. This particular keyboard has a satisfying thock sound. I re-pitched these sounds using Morphagene and Cocoquantus to make digitally distressed textures that sound a little bit like some kind of wooden aquatic movements.</p>
+          <p>I've probably got enough material now for an album, but I wanted to record one more track based on my wife's voice, her recorder (the woodwind), and a few found sounds.</p>
+          <p>It worked like this: two sustained vocal samples were used to make drones using OP-1, Vongon Ultrasheer, and some filtering. In parallel more vocal drones using a second sample were played using Morphagene in a little 4ms Pod with a 4ms I/O module, and this went through some pedals to get saturation and filtering. Meanwhile, I hand played the woodwind sounds (another simple sustained looped sample).</p>
+          <p>I also used the OP-1's mic to overdub sounds of me typing on a mechanical computer keyboard. This particular keyboard has a satisfying thock sound. I re-pitched these sounds using Morphagene and Cocoquantus to make digitally distressed textures that sound a little bit like some kind of wooden aquatic movements.</p>
         </blockquote>
-        <iframe
-                        src="https://open.spotify.com/embed/track/0GsfuX3btLj6Ytit1sm1bZ?utm_source=generator"
-                        width="400px"
-                        frameBorder="0"
-                        allowfullscreen=""
-                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                        loading="lazy"
-                    />
+        <iframe src="https://open.spotify.com/embed/track/0GsfuX3btLj6Ytit1sm1bZ?utm_source=generator" width="400px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         <h3>Gear</h3>
-        <img
-                        width="400px"
-                        class="photo"
-                        src="/media/images/diary-working.jpg"
-                        alt="A photo taken during production"
-                    />
-        <img
-                        width="400px"
-                        class="photo"
-                        src="/media/images/wingie2.jpg"
-                        alt="Another photo taken during production"
-                    />
-        <p
-                    >Looking back at my notes, I obviously wanted to throw all of my favourite instruments into this.</p>
+        <img width="400px" class="photo" src="/media/images/diary-working.jpg" alt="A photo taken during production" />
+        <img width="400px" class="photo" src="/media/images/wingie2.jpg" alt="Another photo taken during production" />
+        <p>Looking back at my notes, I obviously wanted to throw all of my favourite instruments into this.</p>
         <ul>
-          <li
-                        >Eurorack: ER-301, Just Friends, Crow, Mutable Instruments Beads, Stages, Ripples, Intellijel Quad VCA, Instruo øchd, tanh, Cuir, Make Noise Optomix, Morphagene, ALM MCFx2</li>
+          <li>Eurorack: ER-301, Just Friends, Crow, Mutable Instruments Beads, Stages, Ripples, Intellijel Quad VCA, Instruo øchd, tanh, Cuir, Make Noise Optomix, Morphagene, ALM MCFx2</li>
           <li>Audio interface: ES-9, Teenage Engineering TX-6</li>
           <li>Synthesisers: Digitone, OP-Z, OP-1, Ciat Lonbarde Plumbutter</li>
-          <li
-                        >Guitar pedals: Chase Bliss Mood, Generation Loss, Vongons Ultrasheer</li>
+          <li>Guitar pedals: Chase Bliss Mood, Generation Loss, Vongons Ultrasheer</li>
           <li>Other effects: Ciat Lonbarde Cocoquantus, Meng Qi Wingie 2</li>
           <li>Acoustic: Guitar, piano, my wife's voice, recorder, ukulele</li>
         </ul>
-        <p
-                    >I do still have cassettes of this album left, so if you enjoy it and want one find me on Discord or Instagram and I'll send one over.</p>
+        <p>I do still have cassettes of this album left, so if you enjoy it and want one find me on Discord or Instagram and I'll send one over.</p>
       </div>
         </div>
       </content>
@@ -312,72 +730,43 @@
       <title>How to: Digital music without streaming services</title>
       <link href="https://ambalek.club/articles/music-home.html" />
       <published>2024-07-08T22:00:00Z</published>
-      <summary
-        >How to listen to music at home and on the go without using streaming services.</summary>
+      <summary>How to listen to music at home and on the go without using streaming services.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-        <p>I buy lots of music, on Bandcamp, <a
-                            href="https://jam.coop"
-                        >jam.coop</a>, and also DRM-free places like iTunes and Amazon. I like buying music. I don't really like streaming, purely because it seems to have become less about music and more about money.</p>
-        <p
-                    >Despite the ease of purchasing digital music, playing it can be surprisingly difficult now. It can feel strange to deal with MP3s and other audio files these days when most devices are built assuming you want to stream music. Fortunately, you can still have your own stash of digital audio files and play it all through smart speakers.</p>
-        <p
-                    >In this article I'll explain how I do it, but there are lots of other ways to do it. I just wanted to write about it in case anyone feels like they're not really happy with Spotify and use Bandcamp most of the time anyway.</p>
+        <p>I buy lots of music, on Bandcamp, <a href="https://jam.coop">jam.coop</a>, and also DRM-free places like iTunes and Amazon. I like buying music. I don't really like streaming, purely because it seems to have become less about music and more about money.</p>
+        <p>Despite the ease of purchasing digital music, playing it can be surprisingly difficult now. It can feel strange to deal with MP3s and other audio files these days when most devices are built assuming you want to stream music. Fortunately, you can still have your own stash of digital audio files and play it all through smart speakers.</p>
+        <p>In this article I'll explain how I do it, but there are lots of other ways to do it. I just wanted to write about it in case anyone feels like they're not really happy with Spotify and use Bandcamp most of the time anyway.</p>
         <h2>Speakers</h2>
-        <p
-                    >Some smart speakers, those made by Sonos for example, support Bandcamp out of the box. It's possible to add Bandcamp as a service to Sonos, so if you do have a lot of music there you can already play it without paying for any extra services. Here's a screenshot of Bandcamp streaming to my speakers (circa 2024).</p>
+        <p>Some smart speakers, those made by Sonos for example, support Bandcamp out of the box. It's possible to add Bandcamp as a service to Sonos, so if you do have a lot of music there you can already play it without paying for any extra services. Here's a screenshot of Bandcamp streaming to my speakers (circa 2024).</p>
         <figure>
-          <img
-                            src="/media/images/bandcamp-jogging-house-ios.png"
-                            alt="Bandcamp running on iOS showing Jogging House"
-                        />
+          <img src="/media/images/bandcamp-jogging-house-ios.png" alt="Bandcamp running on iOS showing Jogging House" />
           <figurecaption>Bandcamp on iOS.</figurecaption>
         </figure>
-        <p
-                    >If you want more music from other services, you might need somewhere to store the files. This is what I've done for my setup.</p>
+        <p>If you want more music from other services, you might need somewhere to store the files. This is what I've done for my setup.</p>
         <h2>My setup</h2>
         <p>I'm running the following setup:</p>
         <ul>
-          <li><a
-                                href="https://unraid.net/"
-                            >Unraid NAS</a>: An OS that runs on a cheap computer with several largish HDDs</li>
-          <li><a
-                                href="https://www.plex.tv/"
-                            >Plex</a>: Runs on Unraid and serves my media files</li>
-          <li><a
-                                href="https://www.plex.tv/en-gb/plexamp/"
-                            >Plexamp</a>: A music program that talks to a Plex server. Looks quite nice and runs on Windows, Linux, iOS, macOS, and Android</li>
-          <li><a
-                                href="https://www.sonos.com/"
-                            >Sonos</a>: Speakers that sound nice and can talk to my NAS through Plex and SMB file sharing</li>
+          <li><a href="https://unraid.net/">Unraid NAS</a>: An OS that runs on a cheap computer with several largish HDDs</li>
+          <li><a href="https://www.plex.tv/">Plex</a>: Runs on Unraid and serves my media files</li>
+          <li><a href="https://www.plex.tv/en-gb/plexamp/">Plexamp</a>: A music program that talks to a Plex server. Looks quite nice and runs on Windows, Linux, iOS, macOS, and Android</li>
+          <li><a href="https://www.sonos.com/">Sonos</a>: Speakers that sound nice and can talk to my NAS through Plex and SMB file sharing</li>
         </ul>
-        <p>On my phone I use Plexamp or <a
-                            href="https://www.foobar2000.org/"
-                        >Foobar2000</a> to listen to music. My speakers can talk to Plex or my NAS using file sharing. It's not too hard to set all of this up, and there are alternatives I've tried over the years.</p>
+        <p>On my phone I use Plexamp or <a href="https://www.foobar2000.org/">Foobar2000</a> to listen to music. My speakers can talk to Plex or my NAS using file sharing. It's not too hard to set all of this up, and there are alternatives I've tried over the years.</p>
         <figure>
           <img src="/media/images/plexamp-macOS.png" alt="Plexamp on macOS" />
           <figurecaption>Plexamp on macOS.</figurecaption>
         </figure>
-        <p
-                    >One alternative to this setup that I liked for a while was Chromecast Audio: they were tiny devices that had a 3.5mm audio jack that plugged into an amp/powered speakers, so any speakers could become a playback device.</p>
-        <p
-                    >Another approach I tried for a while was running Plex on a Raspberry Pi, and treating the Pi like a NAS with a powered USB hub and SSDs attached using cheap SATA to USB adapters. This was actually fine, I just moved to a bigger Unraid NAS because I wanted to dump all of my RAW photography files somewhere as well.</p>
-        <p
-                    >It might seem like a lot of work to run a NAS, but all you really need is a computer. It could be a Mac or PC you keep running for most of the day, so it could easily store thousands of MP3s and offer them up to smart speakers. It feels pretty good to drop all of my favourite music purchases somewhere so I know they're always there and won't change.</p>
+        <p>One alternative to this setup that I liked for a while was Chromecast Audio: they were tiny devices that had a 3.5mm audio jack that plugged into an amp/powered speakers, so any speakers could become a playback device.</p>
+        <p>Another approach I tried for a while was running Plex on a Raspberry Pi, and treating the Pi like a NAS with a powered USB hub and SSDs attached using cheap SATA to USB adapters. This was actually fine, I just moved to a bigger Unraid NAS because I wanted to dump all of my RAW photography files somewhere as well.</p>
+        <p>It might seem like a lot of work to run a NAS, but all you really need is a computer. It could be a Mac or PC you keep running for most of the day, so it could easily store thousands of MP3s and offer them up to smart speakers. It feels pretty good to drop all of my favourite music purchases somewhere so I know they're always there and won't change.</p>
         <h2>Music player apps</h2>
-        <p
-                    >If you just want something to play music files, then try some of these apps that I use regularly:</p>
+        <p>If you just want something to play music files, then try some of these apps that I use regularly:</p>
         <ul>
-          <li><a
-                                href="https://cog.losno.co/"
-                            >Cog</a>: Clean music player for macOS</li>
-          <li><a
-                                href="https://www.foobar2000.org/"
-                            >Foobar2000</a>: Windows (and iOS) music player &#8212; I like using this on iOS to play locally stored music, it makes its own folder on the device that you can copy files into using the built-in Apple Files app</li>
+          <li><a href="https://cog.losno.co/">Cog</a>: Clean music player for macOS</li>
+          <li><a href="https://www.foobar2000.org/">Foobar2000</a>: Windows (and iOS) music player &#8212; I like using this on iOS to play locally stored music, it makes its own folder on the device that you can copy files into using the built-in Apple Files app</li>
         </ul>
-        <p
-                    >These apps are free, but Plex and Unraid are not free. They both have one time purchase options. I tried out the free trials to see if they were for me. If you don't like them, there are open source and free alternatives to try, too.</p>
+        <p>These apps are free, but Plex and Unraid are not free. They both have one time purchase options. I tried out the free trials to see if they were for me. If you don't like them, there are open source and free alternatives to try, too.</p>
       </div>
         </div>
       </content>
@@ -389,33 +778,18 @@
       <title>Why make a website?</title>
       <link href="https://ambalek.club/articles/why.html" />
       <published>2024-07-03T22:00:00Z</published>
-      <summary
-        >Why make a website, here and now, in the era of AI and social media and walled gardens?</summary>
+      <summary>Why make a website, here and now, in the era of AI and social media and walled gardens?</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-        <p
-                    >I like sketchbooks. I have a lot of them: Moleskine, the one that's similar to Moleskine but German and has a long name I can't spell, cheap A4 lined notebooks, musical score notebooks, and dotted graph paper ones, Field Notes with beautiful artwork, and ones you get free at conferences or for starting a tech job. I do use them a little but, but not really. What I actually do is make lots of Markdown files that I pretend I store safely with <a
-                            href="https://en.wikipedia.org/wiki/Git"
-                        >git</a> but rarely push.</p>
-        <p
-                    >Why keep empty notebooks and write most things down in computer files? I suppose I don't read the notes again, I write them to remember them but rarely refer back to them. Maybe that's a mistake, but in the times I've had to search my notes they have undoubtedly been useful.</p>
-        <p
-                    >There's something related to notes which I have a little more enthusiasm for: sketches. I love sketches, the way the messy lines eventually turn into what was in my head, the way they feel easy but on reflection take a lot of time. I don't make many sketches anymore, but I do make musical sketches.</p>
-        <p
-                    >Musical sketches are weird because you can't look at them and understand them right away, you have to take some time to listen. If you're in the wrong headspace they might not work for you. I make them anyway, and in the last few years (maybe since 2019) I've posted musical sketches to <a
-                            href="https://www.instagram.com/_ambalek/"
-                        >Instagram</a>. Instagram, for music, is interesting because the musical idea has more context: you can see us playing our instruments, whether they're traditional, electrified, or a bank of eurorack modules with furious knob twiddling.</p>
-        <p
-                    >It could be easy to laugh and say "look at these gear nerds showing off", but as an electronic music fan in the early 90s I'd have given pretty much anything to see how Autechre or Aphex Twin made their music. And yes, there are articles about it in The Wire and other places (like Aphex Twin's work with Korg), but seeing random people on social media doing crazy things with MIDI gear, synthesisers, guitar pedals, and everything else is wonderful.</p>
-        <p
-                    >There's an uncomfortable, corporate, advertising-driven, walled garden, doom scrolling in despair aspect to social media that has a <a
-                            href="https://en.wikipedia.org/wiki/Chilling_effect"
-                        >chilling effect</a>. That brings me back to the "Why?" &#8212; creating a little, calm, quiet, messy, hand-written website in 2024 feels so wrong it must be right. There's no corporation or algorithms, just a music fan, text editor, and some HTML that probably has many mistakes and errors in it. No software platform to generate it, paid blogging platform, or analytics.</p>
-        <p
-                    >Making websites 20 years ago, I remember helping people create things like content management systems or shops, and arguing that we used software to generate pages to make everything repeatable, easy to restyle, upgrade, change, maintain. That's true: a hand-written website is kind of a nightmare. Pages will get old and look weird when new designs and layouts are added. And maybe that's good, a kind of digital patina we miss these days. It's like our paper notebooks when we actually did fill them, dog-eared and were hard to search, but we loved them because they were ours.</p>
-        <p
-                    >And that's why. And perhaps you'd like to make a site too. If you do, or already have a website related to ambient, noise music, weird electronics, or photography &#8212; find me on Instagram, Discord, or one of the other walled gardens, and we could swap URLs to create more digital spaces riddled with patina.</p>
+        <p>I like sketchbooks. I have a lot of them: Moleskine, the one that's similar to Moleskine but German and has a long name I can't spell, cheap A4 lined notebooks, musical score notebooks, and dotted graph paper ones, Field Notes with beautiful artwork, and ones you get free at conferences or for starting a tech job. I do use them a little but, but not really. What I actually do is make lots of Markdown files that I pretend I store safely with <a href="https://en.wikipedia.org/wiki/Git">git</a> but rarely push.</p>
+        <p>Why keep empty notebooks and write most things down in computer files? I suppose I don't read the notes again, I write them to remember them but rarely refer back to them. Maybe that's a mistake, but in the times I've had to search my notes they have undoubtedly been useful.</p>
+        <p>There's something related to notes which I have a little more enthusiasm for: sketches. I love sketches, the way the messy lines eventually turn into what was in my head, the way they feel easy but on reflection take a lot of time. I don't make many sketches anymore, but I do make musical sketches.</p>
+        <p>Musical sketches are weird because you can't look at them and understand them right away, you have to take some time to listen. If you're in the wrong headspace they might not work for you. I make them anyway, and in the last few years (maybe since 2019) I've posted musical sketches to <a href="https://www.instagram.com/_ambalek/">Instagram</a>. Instagram, for music, is interesting because the musical idea has more context: you can see us playing our instruments, whether they're traditional, electrified, or a bank of eurorack modules with furious knob twiddling.</p>
+        <p>It could be easy to laugh and say "look at these gear nerds showing off", but as an electronic music fan in the early 90s I'd have given pretty much anything to see how Autechre or Aphex Twin made their music. And yes, there are articles about it in The Wire and other places (like Aphex Twin's work with Korg), but seeing random people on social media doing crazy things with MIDI gear, synthesisers, guitar pedals, and everything else is wonderful.</p>
+        <p>There's an uncomfortable, corporate, advertising-driven, walled garden, doom scrolling in despair aspect to social media that has a <a href="https://en.wikipedia.org/wiki/Chilling_effect">chilling effect</a>. That brings me back to the "Why?" &#8212; creating a little, calm, quiet, messy, hand-written website in 2024 feels so wrong it must be right. There's no corporation or algorithms, just a music fan, text editor, and some HTML that probably has many mistakes and errors in it. No software platform to generate it, paid blogging platform, or analytics.</p>
+        <p>Making websites 20 years ago, I remember helping people create things like content management systems or shops, and arguing that we used software to generate pages to make everything repeatable, easy to restyle, upgrade, change, maintain. That's true: a hand-written website is kind of a nightmare. Pages will get old and look weird when new designs and layouts are added. And maybe that's good, a kind of digital patina we miss these days. It's like our paper notebooks when we actually did fill them, dog-eared and were hard to search, but we loved them because they were ours.</p>
+        <p>And that's why. And perhaps you'd like to make a site too. If you do, or already have a website related to ambient, noise music, weird electronics, or photography &#8212; find me on Instagram, Discord, or one of the other walled gardens, and we could swap URLs to create more digital spaces riddled with patina.</p>
       </div>
         </div>
       </content>
@@ -427,23 +801,14 @@
       <title>Review: Redscale by Braulio Lam</title>
       <link href="https://ambalek.club/articles/redscale.html" />
       <published>2024-07-01T22:00:00Z</published>
-      <summary
-        >A photography-inspired ambient/drone album released on whitelabelrecs.</summary>
+      <summary>A photography-inspired ambient/drone album released on whitelabelrecs.</summary>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <div class="e-content">
-        <p><a
-                            href="https://whitelabrecs.bandcamp.com/album/redscale"
-                        >Redscale</a> by Braulio Lam is an ambient drone album that's inspired by photography. Slowly unfolding, hazy guitar sounds, occasionally more glitchy or clicking guitar tones (<em
-                        >2. Sensitive Emulsion</em>), and fragments of field recordings (<em
-                        >6. Canon A-1</em>).</p>
-        <p><em
-                        >Redscale</em>, overall, has a positive and gently uplifting sensibility, but there are darker moments (<em
-                        >7. Skylight Filter</em>).</p>
-        <p>Many of <em
-                        >Rescale's</em> tracks follow a pattern of sticking to a similar emotional range &#8212; there are no abrupt changes in chord or key. This gives the music a lilting, introspective dimension, but there are flecks of sounds and details that reward repeated listening.</p>
-        <p>I've listened to <em
-                        >Rescale</em> many times over the last week or so, it has accompanied me on walks, journeys through the city, and during work, and I've found it to be a beautiful companion.</p>
+        <p><a href="https://whitelabrecs.bandcamp.com/album/redscale">Redscale</a> by Braulio Lam is an ambient drone album that's inspired by photography. Slowly unfolding, hazy guitar sounds, occasionally more glitchy or clicking guitar tones (<em>2. Sensitive Emulsion</em>), and fragments of field recordings (<em>6. Canon A-1</em>).</p>
+        <p><em>Redscale</em>, overall, has a positive and gently uplifting sensibility, but there are darker moments (<em>7. Skylight Filter</em>).</p>
+        <p>Many of <em>Rescale's</em> tracks follow a pattern of sticking to a similar emotional range &#8212; there are no abrupt changes in chord or key. This gives the music a lilting, introspective dimension, but there are flecks of sounds and details that reward repeated listening.</p>
+        <p>I've listened to <em>Rescale</em> many times over the last week or so, it has accompanied me on walks, journeys through the city, and during work, and I've found it to be a beautiful companion.</p>
       </div>
         </div>
       </content>
